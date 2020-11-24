@@ -1,8 +1,8 @@
 {
   "name": "MUDr. Alžběta Honzková",
   "nick": "Běta",
-  "title_en": "Main doctor",
-  "short_desc_en": "Doctor at General University hospital in Prague. Garant of the medical side of our projects.",
-  "title_cz": "Hlavní doktorka",
-  "short_desc_cz": "Lékařka VFN Praha, odborný garant medicínských aplikací"
+  "title_en": "Medical doctor",
+  "short_desc_en": "Medical doctor, responsible for the medical side of our projects.",
+  "title_cz": "Lékařka",
+  "short_desc_cz": "Lékařka, odborný garant medicínských aplikací"
 }
