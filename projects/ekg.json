@@ -1,9 +1,9 @@
 {
-  "name_cz": "Prevence srdečních arytmií",
+  "name_cs": "Prevence srdečních arytmií",
   "name_en": "Heart arrhythmia prevention",
-  "subtitle_cz": "Brzká dektekce arytmie z EKG",
+  "subtitle_cs": "Brzká dektekce arytmie z EKG",
   "subtitle_en": "Early arrhythmia detection from ECG",
-  "website": "mild.blue",
-  "desc_cz": "Onemocnění srdce jsou celosvětově nejčastější příčinou úmrtí. Celé řadě srdečních arytmií lze předejít, pokud je lze predikovat. Nejnovější výzkumy ukazují, že taková predikce možná je. Cílem projektu je vytvořit algoritmus, který z live monitoringu hospitalizovaných pacientů předvídá blížící se arytmie. Vhodným lékařským zásahem lze pak tyto arytmie odstranit ještě než vzniknou. Projekt je ve fázi příprav klinické studie ve spolupráci s IKEM.",
+  "website": "https://mild.blue/",
+  "desc_cs": "Onemocnění srdce jsou celosvětově nejčastější příčinou úmrtí. Celé řadě srdečních arytmií lze předejít, pokud je lze predikovat. Nejnovější výzkumy ukazují, že taková predikce možná je. Cílem projektu je vytvořit algoritmus, který z live monitoringu hospitalizovaných pacientů předvídá blížící se arytmie. Vhodným lékařským zásahem lze pak tyto arytmie odstranit ještě než vzniknou. Projekt je ve fázi příprav klinické studie ve spolupráci s IKEM.",
   "desc_en": "Cardiovascular diseases, with arrhythmia being the prevalent symptom, represent the most common cause of death worldwide. Yet a great number of such arrhythmia can be prevented, if they could be predicted. State of the art research shows that such prediction is possible. We are developing a smart model that uses deep learning to detect abnormalities in ECGs. The model is in the stage of clinical study in cooperation with Institute of Clinical and Experimental Medicine in Prague."
 }

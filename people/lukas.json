@@ -1,8 +1,8 @@
 {
-  "name": "Lukáš Forst",
-  "nick": "Zajíček",
+  "name": "Bc. Lukáš Forst",
+  "nick": "The Moon",
+  "title_cs": "DevOpsSec & Software Engineer, co-founder",
   "title_en": "DevOpsSec & Software Engineer, co-founder",
-  "short_desc_cz": "Nejmladším členem týmu je Bc. Lukáš Forst. Kromě práce pro Mild Blue ještě studuje obor Kybernetická bezpečnost na FEL ČVUT. U nás má navíc na starosti také devops všech projektů.",
-  "title_cz": "DevOpsSec & Software Engineer, co-founder",
-  "short_desc_en": "Pursuing a Cyber Security Master's degree at CTU, Lukas already gained strong hands-on experience in multiple international AI and cybersecurity startups across Europe. He is responsible for the devops and security aspect of our products."
+  "short_desc_en": "Pursuing a Cyber Security Master's degree at CTU, Lukas is the youngest member of the team. He has four years of experience building production-ready software, starting his career in the Prague-based AI startup and then moving to a cybersecurity startup in Berlin. He pursues a new challenge as a DevOpsSec Engineer at Mild Blue, responsible for the products' security.",
+  "short_desc_cs": "Bc. Lukáš Forst, student Kybernetické Bezpečnosti na FEL ČVUT je nejmladším členem týmu. Ačkoliv stále student, má bohaté zkušenosti s vývojem produkčního software a automatizací, které získal nejdříve v AI startupu v Praze a následně v berlínském cybersecurity startupu. V Mild Blue je jako DevSecOps Engineer zodpovědný za bezpečnost produktů a celé společnosti."
 }

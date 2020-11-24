@@ -1,8 +1,8 @@
 {
   "name": "Mgr. Marek Polák, Ph.D.",
   "nick": "Marek",
+  "title_cs": "Softwarový architekt & hlavní vývojář, co-founder",
   "title_en": "Software architect & main developer, co-founder",
-  "short_desc_en": "Marek holds a PhD in Software Engineering, specifically in data modeling. He has various work experiences from corporate sector such as banking, telco and automotive as well as from start-up scene. He is the person responsible for application architecture and design we produce.",
-  "title_cz": "Softwarový architekt & hlavní vývojář, co-founder",
-  "short_desc_cz": "Marek je systémový architekt zaštiťující vývoj software z technické a bezpečnostní stránky. Titul doktor získal na MFF UK v oboru softwarové inženýrství a za svoji kariéru stihl vytvořit již mnoho složitých softwarových řešení. Má zkušenosti s velkými korporacemi z bankovnictví, automobilové průmyslu či telekomunikací, ale také ze startupové scény. Oficiální pozice: Coffee Machine Manager."
+  "short_desc_cs": "Marek je systémový architekt zaštiťující vývoj software z technické a bezpečnostní stránky. Titul doktor získal na MFF UK v oboru softwarové inženýrství a za svoji kariéru stihl vytvořit již mnoho složitých softwarových řešení. Má zkušenosti s velkými korporacemi z bankovnictví, automobilové průmyslu či telekomunikací, ale také ze startupové scény. Oficiální pozice: Coffee Machine Manager.",
+  "short_desc_en": "Marek holds a PhD in Software Engineering, specifically in data modeling. He has various work experiences from corporate sector such as banking, telco and automotive as well as from start-up scene. He is the person responsible for application architecture and design we produce."
 }
