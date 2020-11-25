@@ -1,9 +1,9 @@
 {
+  "name_cs": "TX Matching",
   "name_en": "TX Matching",
-  "name_cz": "TX Matching",
-  "subtitle_cz": "Párování ledvin od živých dárců",
-  "subtitle_en": "Pairing kidneys from live donors",
-  "desc_cz": "Jádrem projektu je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací zajišťující nejlepší možný výsledek ve smyslu délky a kvality života pacientů. Projekt je produkčně používán v IKEMu a již podle něj proběhlo první kolo transplantací.",
-  "website": "txmatching.mild.blue",
-  "desc_en": "The core of the project is an algorithm that finds and optimal matching between many different tuples of incompatible donors and recipients. The word optimal means that we find the best matches taking into account expected length and life quality of the recipients. Projects is in use by Institute of Clinical and Experimental Medicine in Prague in a programm that manages exchanges between three countries: Czechia, Austria and Israel."
+  "subtitle_cs": "Párování ledvin od živých dárců",
+  "subtitle_en": "Live donors kidney matching tool",
+  "website": "https://txmatching.mild.blue",
+  "desc_cs": "Jádrem projektu je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací zajišťující nejlepší možný výsledek ve smyslu délky a kvality života pacientů. Projekt je produkčně používán v IKEMu a již podle něj proběhlo první kolo transplantací.",
+  "desc_en": "In the center of the project is an algorithm that finds the optimal matching between a number of different tuples of incompatible donors and recipients. The word optimal means that we find the best matches taking into account expected life length and quality of the recipients. Projects is in production use by Institute of Clinical and Experimental Medicine in Prague in an international program that manages exchanges between the Czech Republic, Austria and Israel."
 }

@@ -1,9 +1,9 @@
 {
-  "name_cz": "Datavid",
+  "name_cs": "Datavid",
   "name_en": "Datavid",
-  "subtitle_cz": "Speech2text nástroj pro tvorbu lékařských zpráv",
+  "subtitle_cs": "Speech2text nástroj pro tvorbu lékařských zpráv",
   "subtitle_en": "Speech2text tool for medical report creation",
-  "desc_cz": "Nástroj umožňující lékařské zprávy nikoliv psát, ale rovnou diktovat. Díky nejmodernějším metodám převodu řeči na text a porozumění tomuto textu lze vytvářet přehledné a strukturované lékařské zprávy za zlomek času, jenž lékaři potřebují nyní.  Projekt ve fázi funkčního prototypu",
-  "website": "datavid.mild.blue",
-  "desc_en": "Tool that enables doctors to simplify the process of medical report writing by letting the doctors to skip the writing part entirely. The tools lets the doctors dictate the report and immediately structures the speech into medical report. The project is in the phase of functional prototype."
+  "website": "https://datavid.mild.blue",
+  "desc_cs": "Nástroj umožňující lékařské zprávy nikoliv psát, ale rovnou diktovat. Díky nejmodernějším metodám převodu řeči na text a porozumění tomuto textu lze vytvářet přehledné a strukturované lékařské zprávy za zlomek času, jenž lékaři potřebují nyní.  Projekt ve fázi funkčního prototypu.",
+  "desc_en": "Easy to use tool that enables doctors to simplify the process of medical report writing by simply skipping the writing part entirely. The tools lets the doctors dictate the report instead and immediately structures the speech into medical report. The project is in the phase of functional prototype."
 }
