@@ -1,14 +1,14 @@
 {
   "urls": [
+    "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
+    "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
+    "https://denikn.cz/minuta/500762/",
+    "https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/zdravotnicky-hackathon-vyhrala-mobilni-aplikace--ktera-usnadnuje-davkovani-heparinu-a-inzulinu--258043/",
     "https://www.zdravotnickydenik.cz/2020/11/aplikace-pro-snadnejsi-davkovani-heparinu-a-inzulinu-vyhrala-zdravotnicky-hackathon-letos-probihal-zcela-online/",
     "https://www.seznamzpravy.cz/clanek/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku-130732",
-    "https://denikn.cz/minuta/500762/",
     "https://www.zdravezpravy.cz/2020/11/23/zdravotnicky-hackathon-vyhrala-aplikace-na-davkovani-leku/",
-    "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
     "https://zezdravotnictvi.cz/zpravy/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku/",
-    "https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/zdravotnicky-hackathon-vyhrala-mobilni-aplikace--ktera-usnadnuje-davkovani-heparinu-a-inzulinu--258043/",
     "https://www.pharmaprofit.cz/2020/11/23/zdravotnicky-hackathon-zna-sve-viteze/",
-    "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
     "https://twitter.com/ikemcz/status/1330544142489935874",
     "https://twitter.com/ikemcz/status/1330902807508111360",
     "https://twitter.com/ikemcz/status/1331144390799216641",
@@ -22,8 +22,10 @@
     "https://www.apatykar.info/kratke-zpravy-20291/",
     "https://www.prahanadlani.cz/amp-clanek-zprava/321722-zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku.html",
     "https://www.helpnet.cz/monitoring-medii/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku",
-    "https://www.youtube.com/watch?v=QOiRcxRqkfY&feature=emb_logo",
     "https://www.ceehacks.com/",
     "https://program.rozhlas.cz/zaznamy#/plus/2020-11-24"
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=QOiRcxRqkfY&feature=emb_logo"
   ]
 }
