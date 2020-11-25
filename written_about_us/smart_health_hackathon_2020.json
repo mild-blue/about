@@ -2,6 +2,7 @@
   "urls": [
     "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
     "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
+    "https://plus.rozhlas.cz/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku-zaujal-i-napad-s-8368760",
     "https://denikn.cz/minuta/500762/",
     "https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/zdravotnicky-hackathon-vyhrala-mobilni-aplikace--ktera-usnadnuje-davkovani-heparinu-a-inzulinu--258043/",
     "https://www.zdravotnickydenik.cz/2020/11/aplikace-pro-snadnejsi-davkovani-heparinu-a-inzulinu-vyhrala-zdravotnicky-hackathon-letos-probihal-zcela-online/",
@@ -22,10 +23,12 @@
     "https://www.apatykar.info/kratke-zpravy-20291/",
     "https://www.prahanadlani.cz/amp-clanek-zprava/321722-zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku.html",
     "https://www.helpnet.cz/monitoring-medii/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku",
-    "https://www.ceehacks.com/",
-    "https://program.rozhlas.cz/zaznamy#/plus/2020-11-24"
+    "https://www.ceehacks.com/"
   ],
-  "videos": [
-    "https://www.youtube.com/watch?v=QOiRcxRqkfY&feature=emb_logo"
+  "media": [
+    {
+      "url": "https://croaod.cz/download/audiolog/plus/2020/11/24/06.mp3",
+      "start_time": "0:25:03"
+    }
   ]
 }

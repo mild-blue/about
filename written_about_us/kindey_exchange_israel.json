@@ -1,15 +1,17 @@
 {
   "urls": [
     "https://www.irozhlas.cz/zivotni-styl/zdravi/ikem-cesko-izrael-parova-transplantace-ledvin_2010221143_miz",
-    "https://denikn.cz/minuta/475550/?ref=pop",
+    "https://denikn.cz/minuta/475550",
     "https://ct24.ceskatelevize.cz/veda/3212083-ikem-provedl-druhou-cesko-izraelskou-parovou-vymenu-ledvin",
     "https://www.ceskenoviny.cz/zpravy/ikem-provedl-druhou-cesko-izraelskou-parovou-vymenu-ledvin/1949124",
     "https://www.ikem.cz/cs/druha-cesko-izraelska-parova-vymena-ledvin-od-zijicich-darcu/a-3895/",
     "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/659018/ledviny-izraelcu-zachranuji-cechy-a-naopak-ikem-provedl-uz-druhou-mezinarodni-parovou-vymenu-ledvin-od-zivych-darcu.html",
-    "https://www.idnes.cz/zpravy/domaci/transplantace-ledvin-ikem-cesko-izrael.A201022_085547_domaci_knn",
-    "https://cnn.iprima.cz/porady/zpravy/22102020-8"
+    "https://www.idnes.cz/zpravy/domaci/transplantace-ledvin-ikem-cesko-izrael.A201022_085547_domaci_knn"
   ],
-  "videos": [
-    "https://www.youtube.com/watch?v=Pu35QjzP2j0&feature=youtu.be"
+  "media": [
+    {
+      "url": "https://www.youtube.com/watch?v=Pu35QjzP2j0",
+      "start_time" : "0:00:00"
+    }
   ]
 }
