@@ -1,5 +1,30 @@
 {
-  "urls": [
+  "best_articles": [
+    [
+      {
+        "date": "23.11.2020",
+        "title": "Už žádní heparinoví vrazi. Vývojáři dali kalkulačku léků do mobilu",
+        "url": "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
+        "img": "https://d39-a.sdn.cz/d_39/c_img_QP_R/3rBGf.jpeg?fl=cro,0,0,6200,4000%7Cres,1200,,1%7Cwebp,75",
+        "source": "Seznam zpravy",
+        "tags": [
+          "article",
+          "breviary"
+        ]
+      },
+      {
+        "date": "23.11.2020",
+        "title": "SMART HEALTH HACKATHON 2020",
+        "url": "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
+        "img": "https://www.ikem.cz/UserFiles/Image/1606119089DSC05897.jpg",
+        "source": "IKEM",
+        "tags": [
+          "article",
+          "breviary"
+        ]
+      }
+    ],
+  "other_articles": [
     "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
     "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
     "https://plus.rozhlas.cz/zdravotnicky-hackathon-vyhrala-aplikace-pro-davkovani-leku-zaujal-i-napad-s-8368760",
