@@ -1,10 +1,12 @@
 {
   "name": "Mild Blue s.r.o.",
   "website": "https://mild.blue/",
-  "summary_cs": "Pomáháme medicíně využít potenciál umělé inteligence a strojového učení a naplno zužitkovat sílu ukrytou v datech.",
-  "summary_en": "We help medicine to harvest the potential of AI and machine learning to fully utilize the power hidden in data.",
-  "subsummary_cs": "Neoptimalizujeme reklamu. Nehoníme nové uživatele. Neprodáváme pojistky. Tvoříme algoritmy, které zachraňují životy. Jsme Mild Blue.",
-  "subsummary_en": "We don't optimize adds. We don't hunt clicks. We don't sell insurance. We create algorithms that save lives. We are Mild Blue.",
+  "motto_cs": "Pomáháme medicíně využít potenciál umělé inteligence a strojového učení a naplno zužitkovat sílu ukrytou v datech.",
+  "motto_en": "We help medicine to harvest the potential of AI and machine learning to fully utilize the power hidden in data.",
+  "submotto_cs": "Neoptimalizujeme reklamu. Nehoníme nové uživatele. Neprodáváme pojistky. Tvoříme algoritmy, které zachraňují životy. Jsme Mild Blue.",
+  "submotto_en": "We don't optimize adds. We don't hunt clicks. We don't sell insurance. We create algorithms that save lives. We are Mild Blue.",
+  "summary_en": "We are a startup doing advanced IT projects in healthcare. We are able to do the projects end to end this includes machine learning, optimalization, web & mobile app development and deep understanding of medical side. We are team of young people ready to jump on any interesting healthcare problem and solve it. At the moment we are working on several projects and some of them are already in production in hospitals.",
+  "summary_cs": "Jsme startup delajici pokrocile IT projekty ve zdravotnictvi. Umime udelat end to end projekty, kde je potreba strojove uceni, optimalizace, vyvoj webovych, ci mobilnich aplikaci a porozumneni medicinskym problemum. Jsme tym nadsenych mladych lidi pripraveny skocit na kazdy zajimavy medicinsky problem a vyresit ho. Aktualne pracujeme na nekolika projektech a nektere jsou uz ted produkcne vyuzivany v nemocnicich."
   "foundation_date": "9.4.2020,",
   "ico": "03857999",
   "account_number": "4603508071/2010",
@@ -12,4 +14,7 @@
   "email": "info@mild.blue",
   "dic": "CZ03857999",
   "address": "Jablonského 600/3, PLZEŇ 2-SLOVANY, VÝCHODNÍ PŘEDMĚSTÍ, 326 00, PLZEŇ 26"
+  "facebook_url": "https://www.facebook.com/mildblueai",
+  "linkedin_url": "https://www.linkedin.com/company/mild-blue"
+  "crunchbase_url": "https://www.crunchbase.com/organization/mild-blue"
 }
