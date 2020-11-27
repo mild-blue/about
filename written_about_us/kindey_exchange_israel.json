@@ -1,4 +1,39 @@
 {
+  "best_articles": [
+    {
+      "date": "21.10.2020",
+      "title": "V IKEM provedli další párovou výměnu ledvin. Lékaři v Česku a Izraeli nepracovali simultánně",
+      "url": "https://www.irozhlas.cz/zivotni-styl/zdravi/ikem-cesko-izrael-parova-transplantace-ledvin_2010221143_miz",
+      "img": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_large/public/uploader/img_0104_170426-015347_dp.jpg",
+      "source": "Český rozhlas",
+      "tags": [
+        "article",
+        "txm"
+      ]
+    },
+    {
+      "date": "22.10.2020",
+      "title": "IKEM provedl druhou česko-izraelskou párovou výměnu ledvin",
+      "url": "https://ct24.ceskatelevize.cz/veda/3212083-ikem-provedl-druhou-cesko-izraelskou-parovou-vymenu-ledvin",
+      "img": "https://ct24.ceskatelevize.cz/sites/default/files/styles/scale_1180/public/images/2508589-ikem_tx_30.jpg?itok=GE7A9m6k",
+      "source": "Česká televize",
+      "tags": [
+        "article",
+        "txm"
+      ]
+    },
+    {
+      "date": "22.10.2020",
+      "title": "Ledviny Izraelců zachraňují Čechy a naopak. IKEM provedl už druhou mezinárodní párovou výměnu ledvin od živých dárců",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/659018/ledviny-izraelcu-zachranuji-cechy-a-naopak-ikem-provedl-uz-druhou-mezinarodni-parovou-vymenu-ledvin-od-zivych-darcu.html",
+      "img": "https://img.blesk.cz/img/1/full/6619327_.jpg",
+      "source": "Blesk.cz",
+      "tags": [
+        "article",
+        "txm"
+      ]
+    }
+  ],
   "urls": [
     "https://www.irozhlas.cz/zivotni-styl/zdravi/ikem-cesko-izrael-parova-transplantace-ledvin_2010221143_miz",
     "https://denikn.cz/minuta/475550",
