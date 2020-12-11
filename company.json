@@ -25,18 +25,20 @@
   "sources_filename": "sources.json",
   "social": [
     {
-      "key": "fb",
       "icon": "facebook-f",
       "url": "https://www.facebook.com/mildblueai"
     },
     {
-      "key": "li",
       "icon": "linkedin-in",
       "url": "https://www.linkedin.com/company/mild-blue"
     },
     {
-      "key": "cb",
+      "icon": "cb",
       "url": "https://www.crunchbase.com/organization/mild-blue"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UC_fmS5fWYTWF4o4seIsdV4Q"
     }
   ]
 }
