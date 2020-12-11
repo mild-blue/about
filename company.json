@@ -16,14 +16,29 @@
   "email": "info@mild.blue",
   "dic": "CZ03857999",
   "address": "Jablonského 600/3, PLZEŇ 2-SLOVANY, VÝCHODNÍ PŘEDMĚSTÍ, 326 00, PLZEŇ 26",
-  "facebook_url": "https://www.facebook.com/mildblueai",
-  "linkedin_url": "https://www.linkedin.com/company/mild-blue",
-  "crunchbase_url": "https://www.crunchbase.com/organization/mild-blue",
   "contact_person": "Ing. Tomáš Kouřim",
   "contact_person_phone_number": "+420723927536",
   "contact_person_email": "tomas.kourim@mild.blue",
   "people_dir": "people",
   "projects_dir": "projects",
   "links_dir": "wrote_about_us",
-  "sources_filename": "sources.json"
+  "sources_filename": "sources.json",
+  "social": [
+    {
+      "icon": "facebook-f",
+      "url": "https://www.facebook.com/mildblueai"
+    },
+    {
+      "icon": "linkedin-in",
+      "url": "https://www.linkedin.com/company/mild-blue"
+    },
+    {
+      "icon": "cb",
+      "url": "https://www.crunchbase.com/organization/mild-blue"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UC_fmS5fWYTWF4o4seIsdV4Q"
+    }
+  ]
 }
