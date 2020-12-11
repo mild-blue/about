@@ -15,4 +15,4 @@ Format:
 
 `icon` - Font Awesome icon name (see [available icons](https://fontawesome.com/icons?d=gallery&m=free)). Icon name is also used in `class` property on FE for additional styling.
 
-`url` - Link to social media 
+`url` - Link to social media.
