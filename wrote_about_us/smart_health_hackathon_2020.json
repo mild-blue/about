@@ -1,27 +1,27 @@
 {
   "best_articles": [
-      {
-        "date": "23.11.2020",
-        "title": "Už žádní heparinoví vrazi. Vývojáři dali kalkulačku léků do mobilu",
-        "url": "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
-        "img": "https://d39-a.sdn.cz/d_39/c_img_QP_R/3rBGf.jpeg?fl=cro,0,0,6200,4000%7Cres,1200,,1%7Cwebp,75",
-        "source": "Seznam zprávy",
-        "tags": [
-          "article",
-          "breviary"
-        ]
-      },
-      {
-        "date": "23.11.2020",
-        "title": "SMART HEALTH HACKATHON 2020",
-        "url": "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
-        "img": "https://www.ikem.cz/UserFiles/Image/1606119089DSC05897.jpg",
-        "source": "IKEM",
-        "tags": [
-          "article",
-          "breviary"
-        ]
-      },
+    {
+      "date": "23.11.2020",
+      "title": "Už žádní heparinoví vrazi. Vývojáři dali kalkulačku léků do mobilu",
+      "url": "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
+      "img": "https://d39-a.sdn.cz/d_39/c_img_QP_R/3rBGf.jpeg?fl=cro,0,0,6200,4000%7Cres,1200,,1%7Cwebp,75",
+      "source": "Seznam zprávy",
+      "tags": [
+        "article",
+        "breviary"
+      ]
+    },
+    {
+      "date": "23.11.2020",
+      "title": "SMART HEALTH HACKATHON 2020",
+      "url": "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
+      "img": "https://www.ikem.cz/UserFiles/Image/1606119089DSC05897.jpg",
+      "source": "IKEM",
+      "tags": [
+        "article",
+        "breviary"
+      ]
+    },
     {
       "date": "25.11.2020",
       "title": "Zdravotnický hackathon vyhrála aplikace pro dávkování léků. Zaujal i nápad s ruličkou od toaletního papíru",
@@ -33,7 +33,7 @@
         "breviary"
       ]
     }
-    ],
+  ],
   "urls": [
     "https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797",
     "https://www.ikem.cz/cs/smart-health-hackathon-2020/a-3909/",
@@ -66,6 +66,22 @@
     {
       "url": "https://croaod.cz/download/audiolog/plus/2020/11/24/06.mp3",
       "start_time": "0:25:03"
+    },
+    {
+      "url": "https://youtu.be/Eu0FdzTY9t4",
+      "start_time": "0:00:00"
+    },
+    {
+      "url": "https://youtu.be/SXx6S_JOWQg",
+      "start_time": "0:00:00"
+    },
+    {
+      "url": "https://youtu.be/i2FwZVIbcyM",
+      "start_time": "0:00:00"
+    },
+    {
+      "url": "https://youtu.be/72qeZoVO5ow",
+      "start_time": "0:00:00"
     }
   ]
 }
