@@ -45,8 +45,16 @@
   ],
   "media": [
     {
+      "title": "Tisková zpráva k párové výměně ledvin od IKEM",
+      "title_en": "Press conference about the paired Czech-Israeli kidney exchange",
       "url": "https://www.youtube.com/watch?v=Pu35QjzP2j0",
-      "start_time" : "0:00:00"
+      "start_time": "0:00:00"
+    },
+    {
+      "title": "Reportáž CNN Prima news o česko-izraelské párové výměně ledvin",
+      "title_en": "CNN Prima news report about the paired Czech-Israeli kidney exchange",
+      "url": "https://youtu.be/gMLItfiaLnk",
+      "start_time": "0:00:00"
     }
   ]
 }
