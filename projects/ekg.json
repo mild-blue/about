@@ -1,8 +1,8 @@
 {
-  "name_cs": "Prevence srdečních arytmií",
-  "name_en": "Heart arrhythmia prevention",
-  "subtitle_cs": "Brzká dektekce arytmie z EKG",
-  "subtitle_en": "Early arrhythmia detection from ECG",
-  "desc_cs": "Onemocnění srdce jsou celosvětově nejčastější příčinou úmrtí. Celé řadě srdečních arytmií lze předejít, pokud je lze predikovat. Nejnovější výzkumy ukazují, že taková predikce možná je. Cílem projektu je vytvořit algoritmus, který z live monitoringu hospitalizovaných pacientů předvídá blížící se arytmie. Vhodným lékařským zásahem lze pak tyto arytmie odstranit ještě než vzniknou. Projekt je ve fázi příprav klinické studie ve spolupráci s IKEM.",
-  "desc_en": "Cardiovascular diseases, with arrhythmia being the prevalent symptom, represent the most common cause of death worldwide. Yet a great number of such arrhythmia can be prevented, if they could be predicted. State of the art research shows that such prediction is possible. We are developing a smart model that uses deep learning to detect abnormalities in ECGs. The model is in the stage of clinical study in cooperation with Institute of Clinical and Experimental Medicine in Prague."
+  "name_cs": "Predikce arytmií",
+  "name_en": "Heart arrhythmia prediction",
+  "subtitle_cs": "Včasné varování před arytmií z live monitoringu pacienta",
+  "subtitle_en": "Early arrhythmia warning using ECG monitoring",
+  "desc_cs": "Arytmie a nemoci srdce obecně jsou celosvětově nejčastější příčinou úmrtí. Nové výzkumy naznačují, že je možné některé z těchto stavů predikovat a včasným zásahem jim předejít. Jádrem našeho řešení je algoritmus, který z monitoringu životních funkcí hospitalizovaných pacientů předvídá blížící se arytmie. V současné době probíhá příprava klinické studie.",
+  "desc_en": "Cardiovascular diseases including arrhythmia are the most common cause of death worldwide. Latest research suggests some of these incidents can be predicted and even avoided by preventive actions. Our smart model uses deep learning to detect abnormalities in ECGs. Clinical study is about to start in collaboration with Institute of Clinical and Experimental Medicine in Prague."
 }
