@@ -6,9 +6,4 @@
   "website": "https://txmatching.mild.blue",
   "desc_cs": "Jádrem projektu je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací zajišťující nejlepší možný výsledek ve smyslu délky a kvality života pacientů. Projekt je produkčně používán v IKEMu v rámci mezinárodního programu výměny ledvin mezi Českou republikou, Izraelem a Rakouskem.",
   "desc_en": "The core of the tool is an algorithm that finds the optimal set of transplantations among multiple incompatible donor-recipient pairs. The optimization is performed with respect to the graft survival potential but also to the total expected life length and quality of each recipient. The tool is in production use by the Institute of Clinical and Experimental Medicine in Prague in an international program that manages kidney exchanges between the Czech Republic, Austria and Israel."
-  "subtitle_cs": "Párování pro transplantace ledvin od živých dárců",
-  "subtitle_en": "Live donors kidney matching tool",
-  "website": "https://txmatching-web.mild.blue",
-  "desc_cs": "TX matching je nástroj, který dokáže z několika desítek nekompatibilních párů nalézt optimální kombinace recipient/donor a zvyšuje tak počet potenciálních transplantací i šance na jejich úspěch. Díky těsné spolupráci s IKEM byla na základě našich výsledků provedena již 2 mezinárodní kola transplantací.",
-  "desc_en": "X matching tool finds optimal donor/recipient matches from dozens of incompatible tuples. Not only it increases numbers of viable transplantations but also might improve their success rates. Due to close partnership with Institute of Clinical and Experimental Medicine in Prague, 2 rounds of international kidney transplantations were carried out based on our algorithm’s results."
 }
