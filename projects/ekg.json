@@ -1,8 +1,11 @@
 {
   "name_cs": "Predikce srdečních arytmií",
   "name_en": "Heart arrhythmia prediction",
+  "name_de": "Vorhersage von Herzrhythmusstörungen",
   "subtitle_cs": "Včasné varování před arytmií z live monitoringu pacienta",
   "subtitle_en": "Early arrhythmia warning using live ECG monitoring",
+  "subtitle_de": "Frühzeitige Warnung vor Herzrhythmusstörungen mittels Live-EKG-Überwachung",
   "desc_cs": "Onemocnění srdce jsou celosvětově nejčastější příčinou úmrtí. Celé řadě srdečních arytmií však lze předejít, pokud je lze predikovat. Nejnovější výzkumy ukazují, že taková predikce možná je. Vyvíjíme robustní algoritmus, který z live monitoringu hospitalizovaných pacientů předvídá blížící se arytmie a včas varuje lékaře. Vhodným zásahem lze pak tyto arytmie odstranit ještě než vzniknou. Projekt je ve fázi příprav klinické studie ve spolupráci s IKEM.",
-  "desc_en": "Cardiovascular diseases represent the most common cause of death worldwide. Yet a great number of life threatening heart arrhythmia can be prevented, if they could be predicted. State of the art research shows that such prediction is possible. We are developing a smart model that uses deep learning algorithms to detect abnormalities in ECGs, predict arrhythmia and help doctors prevent it. The project is about to enter into a clinical study in cooperation with the Institute of Clinical and Experimental Medicine in Prague."
+  "desc_en": "Cardiovascular diseases represent the most common cause of death worldwide. Yet a great number of life threatening heart arrhythmia can be prevented, if they could be predicted. State of the art research shows that such prediction is possible. We are developing a smart model that uses deep learning algorithms to detect abnormalities in ECGs, predict arrhythmia and help doctors prevent it. The project is about to enter into a clinical study in cooperation with the Institute of Clinical and Experimental Medicine in Prague.",
+  "desc_de": "Herz-Kreislauf-Erkrankungen sind die häufigste Todesursache weltweit. Eine große Anzahl der lebensbedrohlichen Herzrhythmusstörungen kann jedoch verhindert werden, wenn sie frühzeitig vorhergesagt werden. Neue Forschungen zeigen, dass die Vorhersage möglich ist. Wir entwickeln ein intelligentes Modell, das Deep-Learning-Algorithmen verwendet, um Anomalien in EKG zu erkennen, Arrhythmien vorherzusagen und Ärzten hinzuweisen. Das Projekt befindet sich in der Vorbereitungsphase einer klinischen Studie in Zusammenarbeit mit dem Institut für klinische und experimentelle Medizin in Prag."
 }

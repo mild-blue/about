@@ -5,6 +5,8 @@
   "email": "lukas@mild.blue",
   "title_cs": "Senior Software Engineer & co-founder",
   "title_en": "Senior Software Engineer & co-founder",
+  "title_de": "Senior Software Engineer & Mitbegründer",
   "short_desc_en": "Even though Lukas is pursuing a Cyber Security Master's degree at CTU, he already gained over four years of experience building production-ready software. Starting his career in the Prague-based AI startup and then moving to a cybersecurity startup in Berlin. Lukas is responsible for the products' development, security, and DevOps.",
-  "short_desc_cs": "Lukáš je studentem Kybernetické Bezpečnosti na FEL ČVUT. Ačkoliv stále student, má bohaté zkušenosti s vývojem produkčního software a automatizací, které získal nejdříve v AI startupu v Praze a následně v berlínském cybersecurity startupu. V Mild Blue je zodpovědný za vývoj, bezpečnost produktů a celé společnosti."
+  "short_desc_cs": "Lukáš je studentem Kybernetické Bezpečnosti na FEL ČVUT. Ačkoliv stále student, má bohaté zkušenosti s vývojem produkčního software a automatizací, které získal nejdříve v AI startupu v Praze a následně v berlínském cybersecurity startupu. V Mild Blue je zodpovědný za vývoj, bezpečnost produktů a celé společnosti.",
+  "short_desc_de": "Lukas studiert noch ein Master-Programm in Cybersicherheit an der CTU, doch hat er mit Software-Produktion schon viele Erfahrungen. Er begann seine Karriere beim AI-Startup in Prag und ging dann zu einem Cybersicherheit-Startup in Berlin. Lukas ist verantwortlich für die Entwicklung, Sicherheit und DevOps der Produkte."
 }

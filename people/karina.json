@@ -4,7 +4,9 @@
   "email": "karina.balagazova@mild.blue",
   "nick": "Kája",
   "title_cs": "Backend vývojářka",
+  "title_de": "Backend-Entwickler",
   "title_en": "Backend developer",
   "short_desc_cs": "Karina studuje obor Základy umělé inteligence a počítačových věd na FEL ČVUT a je nejmladším členem týmu. Zabývá se vývojem backendových částí našich produktů.",
-  "short_desc_en": "Karina is a backend developer responsible for maintaining the functionality of our products. Studying for a Bachelor's degree in Computer Science, she is the youngest member of the team."
+  "short_desc_en": "Karina is a backend developer responsible for maintaining the functionality of our products. Studying for a Bachelor's degree in Computer Science, she is the youngest member of the team.",
+  "short_desc_de": "Karina ist eine Backend-Entwicklerin, die sich um die Funktionalität unserer Produkte kümmert. Sie studiert ein Bachelor-Programm in Informatik und ist das jüngste Mitglied unseres Teams."
 }
