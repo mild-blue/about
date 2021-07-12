@@ -5,6 +5,8 @@
   "nick": "Běta",
   "title_cs": "Lékařka",
   "title_en": "Medical doctor",
+  "title_de": "Ärztin",
   "short_desc_cs": "Lékařka, odborný garant medicínských aplikací",
-  "short_desc_en": "Medical doctor, responsible for the medical side of our projects."
+  "short_desc_en": "Medical doctor, responsible for the medical side of our projects.",
+  "short_desc_de": "Ärztin, medizinischer Garant."
 }
