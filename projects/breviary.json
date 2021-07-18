@@ -9,5 +9,7 @@
   "desc_en": "Virtual Breviary is an easy to use mobile app that helps healthcare workers calculate correct medication dosage in no time. Moreover, it uses anonymous data and machine learning algorithms to continuously improve the dosage computation. Ready to integrate into any hospital IT system through APIs, Mild Blue Breviary is the go to app for healthcare institutions when it comes to the right dosage calculations.",
   "email": "breviary@mild.blue",
   "points": [],
-  "images": []
+  "images": [],
+  "desc_extended_cs": "Breviary je jednoduchá a přehledná aplikace na výpočet optimální dávky léků. Lze ji používat na mobilu nebo připojit do IT systému zdravotnického zařízení. \n\n \n\nS aplikací Breviary mohou lékaři, zdravotníci a ošetřující personál snadno a rychle stanovit optimální dávku léků. Breviary využívá anonymní historická data, aby pomocí algoritmů strojového učení neustále vylepšovala účinnost, šetrnost a bezpečnost navrhovaných dávek léků. Jako rychlá pomůcka v mobilu, nebo integrované do IT systému zdravotnického zařízení, Breviary se přizpůsobí všem stylům práce.",
+  "desc_extended_en": "Breviary is an easy-to-use medication dosage calculation app. It works on smartphones or it can be incorporated in healthcare facility’s IT system. \n\n \n\nUsing our virtual Breviary, doctors, nurses and other personnel can easily establish the optimal dose of selected medications.  Breviary uses anonymous data to train machine learning algorithms to continuously improve the efficacy, safety and innocuity of suggested doses. Use it with a smartphone or on desktop, integrated with the healthcare facility’s IT system, Breviary is the go-to solution for every workstyle."
 }
