@@ -10,24 +10,28 @@
   "email": "breviary@mild.blue",
   "points": [
     {
+      "icon": "dosage.svg",
       "title_cs": "Výpočet dávky heparinu a inzulínu",
       "title_en": "Heparin & insulin dosage calculation",
       "description_cs": "Už žádné hledání vzorečků, správné dávkování snadno a hned.",
       "description_en": "No more searching for formulas, optimal medication dosage just a click away."
     },
     {
+      "icon": "platform.svg",
       "title_cs": "Podpora vícero platforem",
       "title_en": "Multiplatform support",
       "description_cs": "V IT systému vaší nemocnice nebo na mobilu… Vždy po ruce!",
       "description_en": "Integrated in an IT system or on your smartphone…. Always at your fingertips!"
     },
     {
+      "icon": "ai.svg",
       "title_cs": "Algoritmus úmělé inteligence",
       "title_en": "Artificial inteligence algorithm",
       "description_cs": "Chytrý algoritmus vždy najde účinnou, bezpečnou a šetrnou dávku.",
       "description_en": "Smart algorithm gives you safe, innocuous and efficacious dosage every time."
     },
     {
+      "icon": "history.svg",
       "title_cs": "Historie výsledků pacienta",
       "title_en": "Records history",
       "description_cs": "Přehledná historie medikace a odezvy pacienta.",
