@@ -19,11 +19,10 @@
     "The tool is used by the Institute of Clinical and Experimental Medicine in Prague (IKEM) to manage kidney exchanges between Czechia, Austria and Israel. TXM is ready to spread to all hospitals that perform transplantations from living donors."
   ],
   "mainScreenshots": [
-    "screen1.png",
-    "screen2.png"
+    "desktop.png"
   ],
-  "featureScreenshot": "screen3.png",
-  "demoScreenshot": "demo.png",
+  "featureScreenshot": "transplants.png",
+  "demoScreenshot": "demo.jpg",
   "points": [
     {
       "icon": "ai.svg",
