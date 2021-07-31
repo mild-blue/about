@@ -5,9 +5,25 @@
   "subtitle_en": "Medication dosage calculation app",
   "website": "https://breviary.mild.blue",
   "demo": "https://breviary.stg.mild.blue",
+  "email": "breviary@mild.blue",
+  "googlePlay": "https://breviary.mild.blue/mobile-application/android/breviary200.apk",
+  "appStore": "mailto:breviary@mild.blue",
   "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků. Používá anonymní data a strojové učení a své výpočty tím neustále zpřesňuje. Navíc ji lze pomocí API jednoduše napojit na interní IT systémy a je tak ideálním řešením pro moderní způsob dávkování léků.",
   "desc_en": "Virtual Breviary is an easy to use mobile app that helps healthcare workers calculate correct medication dosage in no time. Moreover, it uses anonymous data and machine learning algorithms to continuously improve the dosage computation. Ready to integrate into any hospital IT system through APIs, Mild Blue Breviary is the go to app for healthcare institutions when it comes to the right dosage calculations.",
-  "email": "breviary@mild.blue",
+  "desc_pieces_cs": [
+    "Breviary je jednoduchá a přehledná aplikace na výpočet optimální dávky léků. Lze ji používat na mobilu nebo připojit do IT systému zdravotnického zařízení.",
+    "S aplikací Breviary mohou lékaři, zdravotníci a ošetřující personál snadno a rychle stanovit optimální dávku léků. Breviary využívá anonymní historická data, aby pomocí algoritmů strojového učení neustále vylepšovala účinnost, šetrnost a bezpečnost navrhovaných dávek léků. Jako rychlá pomůcka v mobilu, nebo integrované do IT systému zdravotnického zařízení, Breviary se přizpůsobí všem stylům práce."
+  ],
+  "desc_pieces_en": [
+    "Breviary is an easy-to-use medication dosage calculation app. It works on smartphones or it can be incorporated in healthcare facility’s IT system.",
+    "Using our virtual Breviary, doctors, nurses and other personnel can easily establish the optimal dose of selected medications.  Breviary uses anonymous data to train machine learning algorithms to continuously improve the efficacy, safety and innocuity of suggested doses. Use it with a smartphone or on desktop, integrated with the healthcare facility’s IT system, Breviary is the go-to solution for every workstyle."
+  ],
+  "mainScreenshots": [
+    "screen1.png",
+    "screen2.png"
+  ],
+  "featureScreenshot": "screen3.png",
+  "demoScreenshot": "demo.png",
   "points": [
     {
       "icon": "dosage.svg",
@@ -37,19 +53,5 @@
       "description_cs": "Přehledná historie medikace a odezvy pacienta.",
       "description_en": "Convenient history of medication and patient’s response."
     }
-  ],
-  "mainScreenshots": [
-    "screen1.png",
-    "screen2.png"
-  ],
-  "featureScreenshot": "screen3.png",
-  "demoScreenshot": "demo.png",
-  "desc_pieces_cs": [
-    "Breviary je jednoduchá a přehledná aplikace na výpočet optimální dávky léků. Lze ji používat na mobilu nebo připojit do IT systému zdravotnického zařízení.",
-    "S aplikací Breviary mohou lékaři, zdravotníci a ošetřující personál snadno a rychle stanovit optimální dávku léků. Breviary využívá anonymní historická data, aby pomocí algoritmů strojového učení neustále vylepšovala účinnost, šetrnost a bezpečnost navrhovaných dávek léků. Jako rychlá pomůcka v mobilu, nebo integrované do IT systému zdravotnického zařízení, Breviary se přizpůsobí všem stylům práce."
-  ],
-  "desc_pieces_en": [
-    "Breviary is an easy-to-use medication dosage calculation app. It works on smartphones or it can be incorporated in healthcare facility’s IT system.",
-    "Using our virtual Breviary, doctors, nurses and other personnel can easily establish the optimal dose of selected medications.  Breviary uses anonymous data to train machine learning algorithms to continuously improve the efficacy, safety and innocuity of suggested doses. Use it with a smartphone or on desktop, integrated with the healthcare facility’s IT system, Breviary is the go-to solution for every workstyle."
   ]
 }
