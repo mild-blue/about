@@ -1,0 +1,10 @@
+﻿{
+  "name_cs": "Covid-vaxx",
+  "name_en": "Covid-vaxx",
+  "subtitle_cs": "IT nástroj na provedení očkovací akce",
+  "subtitle_en": "IT tool to make a covid vaccination event",
+  "website": "https://ockovani.mild.blue",
+  "email": "covid@mild.blue",
+  "desc_cs": "Covid-vaxx je nástroj, který v sobě zahrnuje webovou stránku umožňující registraci pacientů na očkování, zahrnující validaci zadaných dat včetně validace v ISIN. Zároveň je součástí nástroje adminstrační sekce, která slouží k použítí v průběhu očkování. Ta umožňuje po přihlášní očkujícím lékařům pacienta zkontrolovat a zadat provedené očkování. Vše se pak automaticky propisuje do ISIN. Aplikace byla již využíta při očkování 3000 pacientů při dvou kolech očkování na Praze 7. Celé řešení je k dispozici jako open-source, zároveň Mild Blue nabízí v případě zájmu komplexní support pří organizaci podobné takové akce.",
+  "desc_en": "Covid-vaxx is a tool that incorporates registration of patients for the vaccination. The registration includes validation of inserted data and validation of the patient in the Czech system for infectious diseases (ISIN). Secondly, it includes adminitrative section that allows doctors (after secure login) to validate patients and then log vaccination after it is done. The vaccination is then automatically exported to ISIN. The app was already used to vaccinate around 3000 patients in two vaccinations rounds in Prague. The whole tool is now available as open source. Moreover Mild Blue is ready to provide complex support in organization of such event."
+}
