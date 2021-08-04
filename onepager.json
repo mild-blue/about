@@ -8,5 +8,5 @@
   "showCooperation": false,
   "showSubtitle": true,
   "showCoFounderLabel": true,
-  "footerLink": "web"
+  "footerLinkType": "web"
 }
