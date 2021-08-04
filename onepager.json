@@ -1,0 +1,12 @@
+{
+  "team": [
+    "tomas", "honza", "marek", "lukas", "nasta", "beta"
+  ],
+  "projects": [
+    "breviary", "txm", "datavid", "ekg"
+  ],
+  "showCooperation": false,
+  "showSubtitle": true,
+  "showCoFounderLabel": true,
+  "footerLink": "web"
+}
