@@ -36,15 +36,15 @@
       "icon": "platform.svg",
       "title_cs": "Podpora vícero platforem",
       "title_en": "Multiplatform support",
-      "description_cs": "V IT systému vaší nemocnice nebo na mobilu… Vždy po ruce!",
-      "description_en": "Integrated in an IT system or on your smartphone…. Always at your fingertips!"
+      "description_cs": "Na webu, v mobilním telefonu a tabletu. Vždy po ruce!",
+      "description_en": "On the web, in your phone and tablet. Always at your fingertips!"
     },
     {
-      "icon": "ai.svg",
-      "title_cs": "Algoritmus úmělé inteligence",
-      "title_en": "Artificial inteligence algorithm",
-      "description_cs": "Chytrý algoritmus vždy navrhne účinnou, bezpečnou a šetrnou dávku.",
-      "description_en": "Smart algorithm recommends safe, innocuous and efficacious dosage every time."
+      "icon": "integration.svg",
+      "title_cs": "Flexibilní integrace",
+      "title_en": "Flexible integration",
+      "description_cs": "Aplikaci je možné jednoduše a flexibilně integrovat do libovolného nemocničního informačního systému.",
+      "description_en": "The app can be easily and flexibly integrated into any electronic health record system "
     },
     {
       "icon": "history.svg",
