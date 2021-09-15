@@ -1,12 +1,63 @@
 {
-  "name_cs": "Mild Blue Breviary",
-  "name_en": "Mild Blue Breviary",
-  "name_de": "Mild Blue Breviary",
+  "name_cs": "Breviary",
+  "name_en": "Breviary",
+  "name_de": "Breviary",
   "subtitle_cs": "Mobilní aplikace pro výpočet optimální dávky léku",
   "subtitle_en": "Medication dosage calculation app",
   "subtitle_de": "App zur Berechnung der Medikamentendosis",
   "website": "https://breviary.mild.blue",
   "demo": "https://breviary.stg.mild.blue",
+  "email": "breviary@mild.blue",
+  "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Aktuálně doporučuje dávkování inzulinu pro diabetes I. typu a heparinu při standardní heparinové terapii. Způsob výpočtu doporučení je plně transparentní, byl vyvinut v úzké spolupráci s IKEM a plně odpovídá metodám tam používaným.",
+  "desc_en": "Virtual Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
+  "contact_note_cs": "Máte zájem o využití aplikace Breviary ve Vaší nemocnice? Kontaktujte nás na e-mailu níže a zajistíme Vám zdarma testovácí prostředí připravené na míru.",
+  "contact_note_en": "Would you like to use Breviary app in your hospital? Contact us by e-mail below a to get customized test environment for free.",
+  "desc_pieces_cs": [
+    "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Aktuálně doporučuje dávkování inzulinu pro diabetes I. typu a heparinu při standardní heparinové terapii. Způsob výpočtu doporučení je plně transparentní, byl vyvinut v úzké spolupráci s IKEM a plně odpovídá metodám tam používaným.",
+    "Aplikace je snadno integrovatelná do libovolného nemocničního systému pomocí API. Zároveň ale aplikace může fungovat i samostatně, či být integrována postupně, jak je u daného systému potřeba.",
+    "Kromě doporučování dávkování aplikace také umožňuje ukládat a ukazovat historická data. Průběh léčby pak  lze jednoduše analyzovat a odhalit případné problémy. Zároveň na základě sebraných anonymizovaných dat pomocí metod umělé inteligence probíhá výzkum možností zlepšování aktuálního algoritmu."
+  ],
+  "desc_pieces_en": [
+    "Virtual Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
+    "The app can be easily integrated into any hospital system via API. It can also work independently or be integrated continuously, depending on the needs of specific institution.",
+    "Apart from dosage recommendation the app also stores and shows historical data. This enables the  analysis of the patient's condition and its development and helps detect possible problems. Moreover, the collected anonymized data serve research purposes to find ways to improve the current algorithm."
+  ],
+  "mainScreenshots": [
+    "screen1.png",
+    "screen2.png"
+  ],
+  "featureScreenshot": "screen3.png",
+  "demoScreenshot": "demo.png",
+  "points": [
+    {
+      "icon": "dosage.svg",
+      "title_cs": "Výpočet dávky heparinu a inzulínu",
+      "title_en": "Heparin & insulin dosage calculation",
+      "description_cs": "Už žádné hledání vzorečků, správné dávkování snadno a hned.",
+      "description_en": "No more searching for formulas, optimal medication dosage just a click away."
+    },
+    {
+      "icon": "platform.svg",
+      "title_cs": "Podpora vícero platforem",
+      "title_en": "Multiplatform support",
+      "description_cs": "Na webu, v mobilním telefonu a tabletu s Android či iOS. Vždy po ruce!",
+      "description_en": "On the web, in your Android or iOS phone and tablet. Always at your fingertips!"
+    },
+    {
+      "icon": "integration.svg",
+      "title_cs": "Flexibilní integrace",
+      "title_en": "Flexible integration",
+      "description_cs": "Aplikaci je možné jednoduše a flexibilně integrovat do libovolného nemocničního informačního systému.",
+      "description_en": "The app can be easily integrated into any electronic health record system "
+    },
+    {
+      "icon": "history.svg",
+      "title_cs": "Historie výsledků pacienta",
+      "title_en": "Records history",
+      "description_cs": "Přehledná historie medikace a odezvy pacienta.",
+      "description_en": "Convenient history of medication and patient’s response."
+    }
+  ]
   "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků. Používá anonymní data a strojové učení a své výpočty tím neustále zpřesňuje. Navíc ji lze pomocí API jednoduše napojit na interní IT systémy a je tak ideálním řešením pro moderní způsob dávkování léků.",
   "desc_en": "Virtual Breviary is an easy to use mobile app that helps healthcare workers calculate correct medication dosage in no time. Moreover, it uses anonymous data and machine learning algorithms to continuously improve the dosage computation. Ready to integrate into any hospital IT system through APIs, Mild Blue Breviary is the go to app for healthcare institutions when it comes to the right dosage calculations.",
   "desc_de": "Virtual Breviary ist eine benutzerfreundliche mobile App, mit der medizinisches Personal in kürzester Zeit die richtige Medikamentendosis berechnen können. Darüber hinaus werden anonyme Daten und Algorithmen für maschinelles Lernen verwendet, um die Berechnungen durchlaufend zu verbessern. Mild Blue Breviary kann über APIs in jedes Krankenhaus-IT-System einfach integriert werden und ist daher eine ideale Lösung für die modernen Berechnungen der Dosierung von Arzneimitteln."
