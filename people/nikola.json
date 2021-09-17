@@ -1,10 +1,10 @@
 {
-    "key": "nikola",
-    "name": "Nikola Svobodová",
-    "nick": "Nikola",
-    "email": "nikola.svobodova@mild.blue",
-    "title_cs": "Backend developer",
-    "title_en": "Backend developer",
-    "short_desc_en": "Nikola studies Computer Science at CTU and Mathematics at MFF UK. Apart from that, Nikola has also research experience from an experimental biochemistry/molecular biology laboratory. Currently, she is responsible for the backend development of our products.",
-    "short_desc_cs": "Nikola pracuje na vývoji backendu našich aplikací. Studuje Informatiku na FIT ČVUT a zároveň Obecnou matematiku na MFF UK. V minulosti pracovala jako researcher v laboratoři biochemie a molekulární biologie."
+  "key": "nikola",
+  "name": "Nikola Svobodová",
+  "nick": "Nikola",
+  "email": "nikola.svobodova@mild.blue",
+  "title_cs": "Backend developer",
+  "title_en": "Backend developer",
+  "short_desc_en": "Nikola studies Computer Science at FIT CTU and Mathematics at MFF UK. Apart from that, Nikola has also research experience from an experimental biochemistry/molecular biology laboratory. She is developing the backend part of our products.",
+  "short_desc_cs": "Nikola pracuje na vývoji backendu našich aplikací. Studuje Informatiku na FIT ČVUT a zároveň Obecnou matematiku na MFF UK. Má zkušenosti i z výzkumu v laboratoři biochemie a molekulární biologie."
 }
