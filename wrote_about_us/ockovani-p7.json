@@ -22,5 +22,26 @@
         "covid19"
       ]
     }
+  ],
+  "urls": [
+    "https://www.blesk.cz/clanek/zpravy-koronavirus/682182/praha-7-znovu-ockuje-po-vlastni-ose-tentokrat-se-zameruje-na-mlade.html",
+    "https://monitoring.anopress.cz/orig/MyOrig?h=77396631",
+    "https://www.prazskypatriot.cz/praha-7-pripravila-ockovani-pro-zajemce-od-16-let/",
+    "https://monitoring.anopress.cz/orig/MyOrig?h=11709409",
+    "https://www.praha7.cz/praha-7-naockovala-behem-patecniho-odpoledne-2850-lidi/",
+    "https://www.prazskypatriot.cz/praha-7-naockovala-behem-patecniho-odpoledne-2850-lidi/",
+    "https://www.prazskynoviny.cz/2021/06/10/praha-7-radnice-pripravila-ockovani-pro-zajemce-od-16-let-ve-dvou-pevnych-terminech/",
+    "https://twitter.com/prazskynoviny/status/1403005281643155457",
+    "https://www.prazskynoviny.cz/2021/06/10/praha-7-radnice-pripravila-ockovani-pro-zajemce-od-16-let-ve-dvou-pevnych-terminech/",
+    "https://www.prazskynoviny.cz/2021/06/19/aktuality-sobota-19-6-2021/"
+  ],
+  "media": [
+    {
+      "title": "Report o námi zajištěné rychloočkovací akci.",
+      "title_en": "Report about an vaccination event organized by us.",
+      "url": "https://youtu.be/tQ_NJgeU8CU",
+      "start_time": "0:00:00"
+    }
+
   ]
 }
