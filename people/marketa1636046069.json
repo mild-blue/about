@@ -1,0 +1,160 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/marketa.jpg",
+    "baseName": "marketa.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1200,
+      "height": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 5760000,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 103.308,
+        "median": 168.667,
+        "standardDeviation": 20398.9,
+        "kurtosis": -0.988668,
+        "skewness": 0.647268,
+        "entropy": 0.927111
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 102.687,
+        "median": 185,
+        "standardDeviation": 20809,
+        "kurtosis": -1.21173,
+        "skewness": 0.509907,
+        "entropy": 0.941972
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 116.256,
+        "median": 189,
+        "standardDeviation": 20621.3,
+        "kurtosis": -1.1984,
+        "skewness": 0.42221,
+        "entropy": 0.937552
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.9797,
+        "median": 132,
+        "standardDeviation": 19766.5,
+        "kurtosis": -0.202406,
+        "skewness": 1.07328,
+        "entropy": 0.901807
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1200,
+      "height": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 70,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-11-04T17:14:27+00:00",
+      "date:modify": "2021-11-04T17:14:27+00:00",
+      "exif:ColorSpace": "1",
+      "exif:ExifOffset": "58",
+      "exif:ExifVersion": "48, 50, 50, 48",
+      "exif:ImageUniqueID": "f34b630391fbc0e50000000000000000",
+      "exif:InteroperabilityOffset": "170",
+      "exif:PixelXDimension": "1200",
+      "exif:PixelYDimension": "1600",
+      "exif:Software": "Picasa",
+      "exif:thumbnail:Compression": "6",
+      "exif:thumbnail:InteroperabilityIndex": "R98",
+      "exif:thumbnail:InteroperabilityVersion": "48, 49, 48, 48",
+      "exif:thumbnail:JPEGInterchangeFormat": "294",
+      "exif:thumbnail:JPEGInterchangeFormatLength": "7194",
+      "exif:thumbnail:ResolutionUnit": "2",
+      "exif:thumbnail:XResolution": "72/1",
+      "exif:thumbnail:YResolution": "72/1",
+      "exif:YCbCrSubSampling": "2, 2",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "466ed7b9b096305d9361708665eb9cddd3b38c1cd1d3f0449adc7a83dc656ebe"
+    },
+    "profiles": {
+      "8bim": {
+        "length": 62
+      },
+      "exif": {
+        "length": 7494
+      },
+      "iptc": {
+        "Unknown[1,0]": [null],
+        "City[1,90]": ["0x00000000: 254700                                        -%G"],
+        "Unknown[2,0]": [null],
+        "length": 22
+      },
+      "xmp": {
+        "length": 259
+      }
+    },
+    "tainted": false,
+    "filesize": "233787B",
+    "numberPixels": "1920000",
+    "pixelsPerSecond": "28.0485MB",
+    "userTime": "0.070u",
+    "elapsedTime": "0:01.068",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
