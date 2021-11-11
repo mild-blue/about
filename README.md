@@ -4,7 +4,7 @@
 
 # About
 
-Information about us, our projects that will be presented anywhere. Mostly in JSON format.
+Information about us, our projects that will be presented anywhere. Mostly in JSON format..
 
 ## Social links settings
 Format:
