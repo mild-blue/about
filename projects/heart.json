@@ -8,6 +8,8 @@
   "website": "https://hotpink.z6.web.core.windows.net",
   "demo": "https://hotpink.z6.web.core.windows.net",
   "email": "heart@mild.blue",
+  "color": "#e2001a",
+  "youtube": "https://www.youtube.com/watch?v=mKAh68AjxSc",
   "desc_cs": "Heart Beat Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet srdeční tep detekovaný kamerou chytrého telefonu.",
   "desc_en": "Heart Beat Detector is a mobile app with the possibility to measure, evaluate and share heart pulse detected by a smartphone camera.",
   "desc_de": "Heart Beat Detector ist eine mobile App mit der Möglichkeit, den von einer Smartphone-Kamera erfassten Herzpuls zu messen, auszuwerten und zu teilen.",
