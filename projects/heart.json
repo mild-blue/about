@@ -34,21 +34,21 @@
   "demoScreenshot": "demo.jpg",
   "points": [
     {
-      "icon": "dosage.svg",
+      "icon": "pulse.svg",
       "title_cs": "Detekce srdečního tepu přes kameru mobilního telefonu",
       "title_en": "Heart rate detection using mobile phone camera",
       "description_cs": "Není třeba žádné extérní zařízení, naměřte svůj tep snadno a hned.",
       "description_en": "No external equipment is needed, measure your heart rate easily and immediately."
     },
     {
-      "icon": "integration.svg",
+      "icon": "doctor.svg",
       "title_cs": "Sdílení výsledků s lékařem",
       "title_en": "Results sharing with a doctor",
       "description_cs": "Výsledky měření jsou automaticky sdíleny s Vaším léčicím lékařem.",
       "description_en": "The measurement results are automatically shared with your doctor."
     },
     {
-      "icon": "history.svg",
+      "icon": "csv.svg",
       "title_cs": "Export dat do CSV",
       "title_en": "Data export in CSV",
       "description_cs": "Všechny výsledky lze stáhnout ve formátu CSV pro další analýzu.",
