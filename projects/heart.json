@@ -23,8 +23,8 @@
     "Other functionalities are exporting data in CSV format, viewing patients' history, or sending invitation codes to connect patients with a doctor. The application is available free of charge for users, enabling improvement and monitoring of health care without any additional cost for a patient or a hospital."
   ],
   "mainScreenshots": [
-    "login.png",
-    "hand.png"
+    "hand.png",
+    "graphs.png"
   ],
   "featureScreenshot": "graphs.png",
   "demoScreenshot": "demo.jpg",
