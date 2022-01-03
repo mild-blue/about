@@ -6,7 +6,7 @@
   "subtitle_en": "Measure, evaluate and share heart rate detected by a smartphone camera",
   "subtitle_de": "Messen, bewerten und teilen Sie den von einer Smartphone-Kamera erfassten Herzschlag",
   "website": "https://heart.mild.blue",
-  "demo": "https://hotpink.z6.web.core.windows.net",
+  "demo": "https://heart.stg.mild.blue",
   "email": "heart@mild.blue",
   "youtubeId": "mKAh68AjxSc",
   "desc_cs": "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet srdeční tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění. Dalšími funkcemi jsou export dat ve formátu CSV, prohlížení historie pacientů nebo zasílání zvacích kódů pro spojení pacientů s lékařem. Aplikace je pro uživatele k dispozici zdarma a umožňuje zkvalitňování a sledování zdravotní péče bez dalších nákladů pro pacienta nebo nemocnici.",
