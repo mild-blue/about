@@ -6,7 +6,7 @@
   "subtitle_en": "Medication dosage calculation app",
   "subtitle_de": "App zur Berechnung der Medikamentendosis",
   "website": "https://breviary.mild.blue",
-  "demo": "https://breviary.stg.mild.blue",
+  "demo": "https://breviary.demo.mild.blue",
   "email": "breviary@mild.blue",
   "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Aktuálně doporučuje dávkování inzulinu pro diabetes I. typu a heparinu při standardní heparinové terapii. Způsob výpočtu doporučení je plně transparentní, byl vyvinut v úzké spolupráci s IKEM a plně odpovídá metodám tam používaným.",
   "desc_en": "Virtual Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
