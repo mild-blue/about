@@ -1,7 +1,7 @@
 {
   "name_cs": "TX Matching",
   "name_en": "TX Matching",
-  "subtitle_cs": "Nástroj pro optimalizaci a manažment párové výměny ledvin.",
+  "subtitle_cs": "Nástroj pro optimalizaci a správu párové výměny ledvin.",
   "name_de": "TX Matching",
   "subtitle_en": "Kidney Paired Donation optimization and management tool.",
   "subtitle_de": "Matching-Tool für Lebendspenden von Nieren",
@@ -13,13 +13,13 @@
   "desc_de": "Der Kern dieses Tools ist ein Algorithmus, der die optimale Kombination von Transplantationen unter mehreren inkompatiblen Spender-Empfänger-Paaren findet. Die Optimierung berücksichtigt das Überlebenspotenzial des Transplantats, aber auch die erwartete Gesamtlebensdauer und -qualität jedes Empfängers. Das Tool wird vom Institut für klinische und experimentelle Medizin in Prag in einem internationalen Programm zur Verwaltung des Nierenaustauschs zwischen der Tschechischen Republik, Österreich und Israel benutzt.",
   "desc_pieces_cs": [
     "Párová výměna ledvin je způsob, jak zvýšit počet možných transplantací ledvin a zvýšit tím délku a kvalitu života pacientů s chronickým onemocněním ledvin. V párové výměně dárce daruje ledvinu jinému příjemci a na oplátku získá kompatibilní ledvinu pro svého rodinného příslušníka nebo blízkého přítele.",
-    "TX Matching je nástroj, který umožňuje párovou výměnu zorganizovat a najít v rámci ní optimální kombinaci dárců a příjemců. Organizátor párové výměny využije na její manažment kontrolu uživatelského přístupu, automatické vkládání anonymizovaných pacentských dat přes rozhraní API a možnost reportingu. Algoritmus hledání optimálního párování obsahuje množství nastavitelných omezení dle potřeb dané organizace.",
-    "Algoritmus TX Matchingu je postaven na otevřeném kódu a jeho aktuální verze je vždy přístupna k využití zdarma. Aktuálně je program TX Matching aktivně využíván pražským IKEM na manažment a optimalizaci mezinárodního programu párové výměny mezi Českou republikou, Izraelem a Rakouskem."
+    "TX Matching je nástroj, který umožňuje párovou výměnu zorganizovat a najít v rámci ní optimální kombinaci dárců a příjemců. Pro správu párové výměny nabízí pohodlnou kontrolu uživatelského přístupu, automatické vkládání anonymizovaných pacentských dat přes rozhraní API a možnost reportingu. Optimalizační algoritmus dokáže pracovat s celou řadou nastavitelných parametrů a díky tomu umožňuje maximální flexibilitu při hledání těch nejvhodnějších dárců.",
+    "Algoritmus TX Matchingu je postaven na open source kódu a celá platforma je volně dostupná. Aktuálně je program TX Matching aktivně využíván pražským IKEM na správu a optimalizaci mezinárodního programu párové výměny mezi Českou republikou, Izraelem a Rakouskem."
   ],
   "desc_pieces_en": [
     "Kidney Paired Donation is an exchange program that allows more kidney transplants from living donors to take place. This dramatically increases a quality of life for patients with Chronic Kidney Disease. In a paired donation program, a donor will donate their kidney to another recipient in exchange for a compatible kidney for their family member or friend. ",
     "TX Matching is a tool that supports KPD initiatives with the program management and optimisation. Organizers of KPD can use the user access management, automatical data upload via API and reporting to manage the program. The optimization algorithm in TX Matching that finds the optimal set of transplants among multiple incompatible donor-recipient pairs is highly configurable to fit the needs of a transplant center.",
-    "TX Matching is based on open source code and it's most current version is always available to be used free of charge. The tool is used by the Institute for Clinical and Experimental Medicine in Prague (IKEM) to manage kidney exchanges between Czechia, Austria and Israel."
+    "TX Matching is based on open source code and the whole platform is available to be used free of charge. The tool is used by the Institute for Clinical and Experimental Medicine in Prague (IKEM) to manage kidney exchanges between Czechia, Austria and Israel."
   ],
   "mainScreenshots": [
     "desktop.png"
@@ -45,8 +45,8 @@
       "icon": "settings.svg",
       "title_cs": "Jednoduchá editace parametrů výpočtu",
       "title_en": "Easy alternation of calculation parameters",
-      "description_cs": "Flexibilní uživatelské prostředí umožnuje měnit priority a omezení výpočtu.",
-      "description_en": "Unique user interface allows for priority and constraints customisation."
+      "description_cs": "Uživatelské prostředí umožňuje maximální flexibilitu díky velkému množství nastavitelných parametrů.",
+      "description_en": "Unique user interface allows for maximal flexibility thanks to its broad range of customisation options."
     },
     {
       "icon": "personal-info.svg",
