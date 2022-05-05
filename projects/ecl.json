@@ -1,0 +1,57 @@
+{
+  "name_cs": "Evidence centrových léků",
+  "name_en": "Evidence of Innovative Medication",
+  "subtitle_cs": "Nástroj správu a administraci centrové péče",
+  "name_de": "System für die Evidenz der innovative Medikamente",
+  "subtitle_en": "An application for the management and administration of innovative drugs",
+  "subtitle_de": "Eine applikation für die Verwaltung und Administration der innovative Medikamente",
+  "website": "https://ecl.mild.blue",
+  "demo": "",
+  "email": "ecl@mild.blue",
+  "desc_cs": "V České republice rok od roku přibývá pacientů léčených inovativními “centrovými” léky, které jsou moderní, ale zároveň nákladné. Léčba je poskytována na specializovaných pracovištích - v takzvaných “centrech” se zvláštní smlouvou. Jedná se o převážně biologickou nebo jinou specializovanou léčbu proti závažným onkologickým, kardiovaskulárním či metabolickým onemocněním. V ve spolupráci s VFN Praha jsme vyvinuli aplikaci, která poskytuje informační podporu pro evidenci, rozpočtování, kontrolu a schvalování užití centrových léků. Výstupy z aplikace jsou rovněž využívány pro analýzy stavu centrové péče pro dané kliniky a pro zdravotní pojišťovny.",
+  "desc_en": "Every year the amount of patients treated with innovative drugs increases. Such drugs are expensive, mostly biological or other specialized treatments against serious oncological, cardiovascular or metabolic diseases. These drugs are administered in highly specialized centers. In cooperation with General University Hospital in Prague we developed a complete solution that supports the registration, budgeting, control and approval of innovative medication. The outputs of our application are also used for further analyses and prediction of the usage of innovative drugs.",
+  "desc_de": "Jedes Jahr steigt die Zahl der Patienten, die mit innovativen Medikamenten behandelt werden. Bei diesen Medikamenten handelt es sich um teure, meist biologische oder andere spezialisierte Behandlungen gegen schwerwiegende onkologische, kardiovaskuläre oder metabolische Erkrankungen. Diese Medikamente werden in hochspezialisierten Zentren verabreicht. In Zusammenarbeit mit dem Allgemeinen Universitätskrankenhaus in Prag haben wir eine Komplettlösung entwickelt, die die Registrierung, Budgetierung, Kontrolle und Zulassung innovativer Medikamente unterstützt. Die Ergebnisse unserer Anwendung werden auch für weitere Analysen und Vorhersagen über den Einsatz innovativer Medikamente verwendet.",
+  "desc_pieces_cs": [
+    "V České republice rok od roku přibývá pacientů léčených inovativními “centrovými” léky, které jsou moderní, ale zároveň nákladné. Léčba je poskytována na specializovaných pracovištích - v takzvaných “centrech” se zvláštní smlouvou. Jedná se o převážně biologickou nebo jinou specializovanou léčbu proti závažným onkologickým, kardiovaskulárním či metabolickým onemocněním. ",
+    "V ve spolupráci s VFN Praha jsme vyvinuli aplikaci, která poskytuje informační podporu pro evidenci, rozpočtování, kontrolu a schvalování užití centrových léků. Výstupy z aplikace jsou rovněž využívány pro analýzy stavu centrové péče pro dané kliniky a pro zdravotní pojišťovny."
+  ],
+  "desc_pieces_en": [
+    "Every year the amount of patients treated with innovative drugs increases. Such drugs are expensive, mostly biological or other specialized treatments against serious oncological, cardiovascular or metabolic diseases. These drugs are administered in highly specialized centers.",
+    "In cooperation with General University Hospital in Prague we developed a complete solution that supports the registration, budgeting, control and approval of innovative medication. The outputs of our application are also used for further analyses and prediction of the usage of innovative drugs."
+  ],
+  "mainScreenshots": [
+    ""
+  ],
+  "featureScreenshot": "",
+  "demoScreenshot": "",
+  "points": [
+    {
+      "icon": "",
+      "title_cs": "Jednoduché a přehledné UI",
+      "title_en": "Simple and easy to use UI",
+      "description_cs": "Aplikace byla navržena tak, aby vyhovovala potřebám moderní instituce a umožnila jednoduchou a efektivní práci s daty.",
+      "description_en": "The application was designed according to modern design trends to allow easy and effective data processing."
+    },
+    {
+      "icon": "",
+      "title_cs": "Plně integrovatelná do nemocničního informačního systému",
+      "title_en": "Fully integrable into EHR systems",
+      "description_cs": "Díky plné integraci do potřebých nemocničních systémů je práce s aplikací velice rychlá. Veškerá data jsou k dispozici automaticky bez nutnosti je znovu přepisovat.",
+      "description_en": "The application is fully integrated into all relevant hospital IT systems providing frictionless user experience. All data are loaded automatically without the need to copy-paste them."
+    },
+    {
+      "icon": "",
+      "title_cs": "Citlivá data jsou vždy v bezpečí",
+      "title_en": "Sensitive data are safe and secured",
+      "description_cs": "Veškerá data i komunikace jsou šifrovaná a aplikace používá moderní metody zabezpečení.",
+      "description_en": "All data and communication are encrypted and the app uses modern security features."
+    },
+    {
+      "icon": "",
+      "title_cs": "Vhodná pro použití ve všech institucích poskytujících centrovou péči",
+      "title_en": "Suitable for all institutions providing care with innovative medication",
+      "description_cs": "Nástroj lze snadno použít i v dalších institucích poskytujících centrovou péči.",
+      "description_en": "The tool can be easily reused in other institutions handling innovative drugs."
+    }
+  ]
+}
