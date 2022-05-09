@@ -26,28 +26,28 @@
   "demoScreenshot": "demo.png",
   "points": [
     {
-      "icon": "",
+      "icon": "web.png",
       "title_cs": "Jednoduché a přehledné UI",
       "title_en": "Simple and easy to use UI",
       "description_cs": "Aplikace byla navržena tak, aby vyhovovala potřebám moderní instituce a umožnila jednoduchou a efektivní práci s daty.",
       "description_en": "The application was designed according to modern design trends to allow easy and effective data processing."
     },
     {
-      "icon": "",
+      "icon": "integration.png",
       "title_cs": "Plně integrovatelná do nemocničního informačního systému",
       "title_en": "Fully integrable into EHR systems",
       "description_cs": "Díky plné integraci do potřebých nemocničních systémů je práce s aplikací velice rychlá. Veškerá data jsou k dispozici automaticky bez nutnosti je znovu přepisovat.",
       "description_en": "The application is fully integrated into all relevant hospital IT systems providing frictionless user experience. All data are loaded automatically without the need to copy-paste them."
     },
     {
-      "icon": "",
+      "icon": "security.png",
       "title_cs": "Citlivá data jsou vždy v bezpečí",
       "title_en": "Sensitive data are safe and secured",
       "description_cs": "Veškerá data i komunikace jsou šifrovaná a aplikace používá moderní metody zabezpečení.",
       "description_en": "All data and communication are encrypted and the app uses modern security features."
     },
     {
-      "icon": "",
+      "icon": "hospital.png",
       "title_cs": "Vhodná pro použití ve všech institucích poskytujících centrovou péči",
       "title_en": "Suitable for all institutions providing care with innovative medication",
       "description_cs": "Nástroj lze snadno použít i v dalších institucích poskytujících centrovou péči.",
