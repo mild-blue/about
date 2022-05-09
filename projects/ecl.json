@@ -20,10 +20,10 @@
     "In cooperation with General University Hospital in Prague we developed a complete solution that supports the registration, budgeting, control and approval of innovative medication. The outputs of our application are also used for further analyses and prediction of the usage of innovative drugs."
   ],
   "mainScreenshots": [
-    ""
+    "main.png"
   ],
   "featureScreenshot": "",
-  "demoScreenshot": "",
+  "demoScreenshot": "demo.png",
   "points": [
     {
       "icon": "",
