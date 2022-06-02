@@ -1,25 +1,25 @@
 {
   "name_cs": "TX Matching",
   "name_en": "TX Matching",
-  "subtitle_cs": "Nástroj pro párování ledvin od živých dárců",
+  "subtitle_cs": "Nástroj pro optimalizaci a správu párové výměny ledvin.",
   "name_de": "TX Matching",
-  "subtitle_en": "Live donor kidney matching tool",
+  "subtitle_en": "Kidney Paired Donation optimization and management tool.",
   "subtitle_de": "Matching-Tool für Lebendspenden von Nieren",
   "website": "https://txmatching.mild.blue",
   "demo": "https://txm.demo.mild.blue",
   "email": "txmatching@mild.blue",
   "desc_cs": "Jádrem projektu je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací zajišťující nejlepší možný výsledek ve smyslu délky a kvality života pacientů. Projekt je produkčně používán v IKEMu v rámci mezinárodního programu výměny ledvin mezi Českou republikou, Izraelem a Rakouskem.",
-  "desc_en": "The core of the tool is an algorithm that finds the optimal set of transplantations among multiple incompatible donor-recipient pairs. The optimization is performed with respect to the graft survival potential but also to the total expected life length and quality of each recipient. The tool is in production use by the Institute of Clinical and Experimental Medicine in Prague in an international program that manages kidney exchanges between the Czech Republic, Austria and Israel.",
+  "desc_en": "The core of the tool is an algorithm that finds the optimal set of transplantations among multiple incompatible donor-recipient pairs. The optimization is performed with respect to the graft survival potential but also to the total expected life length and quality of each recipient. The tool is in production use by the Institute for Clinical and Experimental Medicine in Prague in an international program that manages kidney exchanges between the Czech Republic, Austria and Israel.",
   "desc_de": "Der Kern dieses Tools ist ein Algorithmus, der die optimale Kombination von Transplantationen unter mehreren inkompatiblen Spender-Empfänger-Paaren findet. Die Optimierung berücksichtigt das Überlebenspotenzial des Transplantats, aber auch die erwartete Gesamtlebensdauer und -qualität jedes Empfängers. Das Tool wird vom Institut für klinische und experimentelle Medizin in Prag in einem internationalen Programm zur Verwaltung des Nierenaustauschs zwischen der Tschechischen Republik, Österreich und Israel benutzt.",
   "desc_pieces_cs": [
-    "TX Matching je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací.",
-    "Někteří pacienti, kteří potřebují novou ledvinu, mají to štěstí, že ve svém okolí najdou někoho, kdo je ochoten jim ledvinu darovat. Většinou to bývá příbuzný nebo blízký přítel, ale ani to nezaručuje, že bude dárce kompatibilní. S využitím TX Matching algoritmu je možné mezi velkým množstvím takovýchto dvojic najít řetězce vhodných transplantací a dát tak naději na běžný život více pacientům.",
-    "Algoritmus bere v úvahu vhodnost transplantačního štěpu, naději na dožití i celkovou kvalitu života příjemce. Již dnes je TX Matching využívám pražským IKEM ke koordinaci mezinárodního programu výměny ledvin mezi Českou republikou, Izraelem a Rakouskem."
+    "Párová výměna ledvin je způsob, jak zvýšit počet možných transplantací ledvin a zvýšit tím délku a kvalitu života pacientů s chronickým onemocněním ledvin. V párové výměně dárce daruje ledvinu jinému příjemci a na oplátku získá kompatibilní ledvinu pro svého rodinného příslušníka nebo blízkého přítele.",
+    "TX Matching je nástroj, který umožňuje párovou výměnu zorganizovat a najít v ní optimální kombinaci dárců a příjemců. Pro správu párové výměny nabízí pohodlnou kontrolu uživatelského přístupu, automatické vkládání anonymizovaných pacentských dat přes API rozhraní a možnost reportingu. Optimalizační algoritmus dokáže pracovat s celou řadou nastavitelných parametrů a díky tomu umožňuje maximální flexibilitu při hledání těch nejvhodnějších dárců.",
+    "Algoritmus TX Matchingu je postaven na open source kódu a celá platforma je volně dostupná. Aktuálně je program TX Matching aktivně využíván pražským IKEM na správu a optimalizaci mezinárodního programu párové výměny mezi Českou republikou, Izraelem a Rakouskem."
   ],
   "desc_pieces_en": [
-    "TX Matching algorithm finds the optimal set of transplantations among multiple incompatible donor-recipient pairs.",
-    "Patients in need of new kidney sometimes find a willing living donor. They are often a relative or a close friend. Unfortunately, there is no guarantee they will be biologically compatible. TX Matching connects lots of such pairs to maximize the chance for successful transplantations. TX Matching accounts for graft survival potential, total expected life length and quality of life of each recipient.",
-    "The tool is used by the Institute of Clinical and Experimental Medicine in Prague (IKEM) to manage kidney exchanges between Czechia, Austria and Israel. TXM is ready to spread to all hospitals that perform transplantations from living donors."
+    "Kidney Paired Donation (KPD) is an exchange program that allows more kidney transplants from living donors to take place. This dramatically increases a quality of life for patients with chronic kidney disease. In a paired donation program, a donor will donate their kidney to another recipient in exchange for a compatible kidney for their family member or friend.",
+    "TX Matching is a tool that supports KPD initiatives with the program management and optimisation. Organizers of KPD can use the user access management, automatic data upload via API and reporting capabilities to manage the program. The optimization algorithm in TX Matching that finds the optimal set of transplants among multiple incompatible donor-recipient pairs is highly configurable to fit the needs of any transplant center.",
+    "TX Matching is based on open source code and the whole platform is available to be used free of charge. The tool is currently used by the Institute for Clinical and Experimental Medicine in Prague (IKEM) to manage kidney exchanges between Czechia, Austria and Israel."
   ],
   "mainScreenshots": [
     "desktop.png"
@@ -29,24 +29,24 @@
   "points": [
     {
       "icon": "ai.svg",
-      "title_cs": "Algoritmus úmělé inteligence",
-      "title_en": "Artificial intelligence algorithm",
+      "title_cs": "Nejmodernější optimalizační algoritmy",
+      "title_en": "State-of-the-art optimisation algorithms",
       "description_cs": "Chytrý algoritmus dokáže nabídnout více variant transplantačních sad s největší šancí na úspěch.",
-      "description_en": "Smart algorithm offers multiple transplantation options with biggest chance of success."
+      "description_en": "Smart algorithm offers multiple transplantation options maximizing the probability of success."
     },
     {
       "icon": "38.svg",
       "title_cs": "dodatečných transplantací nalezeno za 1 rok.",
       "title_en": "additional transplantation options found in 1 year.",
       "description_cs": "TXM je připraven pro každé zařízení provádějící transplantace od živých dárců.",
-      "description_en": "TXM is ready for all facilities qualified for kidney pair donations."
+      "description_en": "TXM is ready for any facility qualified for kidney paired donations."
     },
     {
       "icon": "settings.svg",
       "title_cs": "Jednoduchá editace parametrů výpočtu",
-      "title_en": "Easy alternation of calculation parameters",
-      "description_cs": "Flexibilní uživatelské prostředí umožnuje měnit priority a vkládat jednorázové parametry.",
-      "description_en": "Unique user interface allows for priority personalization and adding single use parameters."
+      "title_en": "Easy editing of calculation parameters",
+      "description_cs": "Uživatelské prostředí umožňuje maximální flexibilitu díky velkému množství nastavitelných parametrů.",
+      "description_en": "Unique user interface allows for maximal flexibility thanks to its broad range of customisation options."
     },
     {
       "icon": "personal-info.svg",
