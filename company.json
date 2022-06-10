@@ -20,8 +20,15 @@
   "email": "info@mild.blue",
   "hiring": "https://jobs.mild.blue",
   "dic": "CZ03857999",
-  "address": ["Jablonského 600/3", "Východní Předměstí", "326 00 Plzeň"],
-  "mailing_address": ["Plzeňská 168/27", "150 00 Praha 5"],
+  "address": [
+    "Jablonského 600/3",
+    "Východní Předměstí",
+    "326 00 Plzeň"
+  ],
+  "mailing_address": [
+    "Plzeňská 168/27",
+    "150 00 Praha 5"
+  ],
   "contact_person": "Ing. Tomáš Kouřim",
   "contact_person_phone_number": "+420723927536",
   "contact_person_email": "tomas.kourim@mild.blue",

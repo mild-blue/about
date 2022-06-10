@@ -7,7 +7,9 @@
 Information about us, our projects that will be presented anywhere. Mostly in JSON format..
 
 ## Social links settings
+
 Format:
+
 ```
 "social": [
     {
@@ -16,20 +18,33 @@ Format:
     }
 ]
 ```
-`icon` - Font Awesome icon name (see [available icons](https://fontawesome.com/icons?d=gallery&m=free)). Icon name is also used in `class` property on FE for additional styling.
+
+`icon` - Font Awesome icon name (see [available icons](https://fontawesome.com/icons?d=gallery&m=free)). Icon name is
+also used in `class` property on FE for additional styling.
 `url` - Link to social media.
 
 ## Onepager settings
-Settings for [Mild Blue Onepager](https://mild-blue.github.io/onepager/). [GitHub repository](https://github.com/mild-blue/onepager/).
+
+Settings for [Mild Blue Onepager](https://mild-blue.github.io/onepager/)
+. [GitHub repository](https://github.com/mild-blue/onepager/).
 
 Example of settings object:
+
 ```json
 {
   "team": [
-    "tomas", "honza", "marek", "lukas", "nasta", "beta"
+    "tomas",
+    "honza",
+    "marek",
+    "lukas",
+    "nasta",
+    "beta"
   ],
   "projects": [
-    "breviary", "txm", "datavid", "ekg"
+    "breviary",
+    "txm",
+    "datavid",
+    "ekg"
   ],
   "showCooperation": false,
   "showSubtitle": true,
