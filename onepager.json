@@ -1,9 +1,17 @@
 {
   "team": [
-    "tomas", "honza", "marek", "lukas", "nasta", "beta"
+    "tomas",
+    "honza",
+    "marek",
+    "lukas",
+    "nasta",
+    "beta"
   ],
   "projects": [
-    "breviary", "txm", "datavid", "ekg"
+    "breviary",
+    "txm",
+    "datavid",
+    "ekg"
   ],
   "showCooperation": false,
   "showSubtitle": true,
