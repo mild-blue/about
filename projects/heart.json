@@ -2,20 +2,20 @@
   "name_cs": "Heart Rate Detector",
   "name_en": "Heart Rate Detector",
   "name_de": "Heart Rate Detector",
-  "subtitle_cs": "Měřte, vyhodnocujte a sdílejte srdeční tep detekovaný kamerou chytrého telefonu",
+  "subtitle_cs": "Měřte, vyhodnocujte a sdílejte tep detekovaný kamerou chytrého telefonu",
   "subtitle_en": "Measure, evaluate and share heart rate detected by a smartphone camera",
   "subtitle_de": "Messen, bewerten und teilen Sie den von einer Smartphone-Kamera erfassten Herzschlag",
   "website": "https://heart.mild.blue",
   "demo": "https://heart.stg.mild.blue",
   "email": "heart@mild.blue",
   "youtubeId": "mKAh68AjxSc",
-  "desc_cs": "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet srdeční tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění. Dalšími funkcemi jsou export dat ve formátu CSV, prohlížení historie pacientů nebo zasílání zvacích kódů pro spojení pacientů s lékařem. Aplikace je pro uživatele k dispozici zdarma a umožňuje zkvalitňování a sledování zdravotní péče bez dalších nákladů pro pacienta nebo nemocnici.",
-  "desc_en": "Heart Rate Detector is a mobile app with the possibility to measure, evaluate and share heart pulse detected by a smartphone camera. The application allows both patient and doctor to collect recorded data over time and work with them both on a scale for the doctor taking care of the patient and in an anonymized form on a mass scale. Other functionalities are exporting data in CSV format, viewing patients' history, or sending invitation codes to connect patients with a doctor. The application is available free of charge for users, enabling improvement and monitoring of health care without any additional cost for a patient or a hospital.",
+  "desc_cs": "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění. Dalšími funkcemi jsou export dat ve formátu CSV, prohlížení historie pacientů nebo zasílání zvacích kódů pro spojení pacientů s lékařem. Aplikace je pro uživatele k dispozici zdarma a umožňuje zkvalitňování a sledování zdravotní péče bez dalších nákladů pro pacienta nebo nemocnici.",
+  "desc_en": "Heart Rate Detector is a mobile app with the possibility to measure, evaluate and share heart pulse detected by a smartphone camera. The application allows both patient and doctor to collect recorded data over time and work with them both on a scale for the doctor taking care of the patient and in an anonymized form on a mass scale. Other functionalities are data export in CSV format, viewing patient history, and sending invitation codes connecting patients and doctors. The application is available free of charge for users, enabling improvement and monitoring of health care without any additional costs for patients and hospitals.",
   "desc_de": "Heart Rate Detector ist eine mobile App mit der Möglichkeit, den von einer Smartphone-Kamera erfassten Herzpuls zu messen, auszuwerten und zu teilen. Die Anwendung ermöglicht sowohl dem Patienten als auch dem Arzt, aufgezeichnete Daten über die Zeit zu sammeln und mit ihnen sowohl maßstabsgetreu für den behandelnden Arzt als auch in anonymisierter Form massenhaft zu arbeiten. Weitere Funktionen sind der Export von Daten im CSV-Format, das Anzeigen der Patientengeschichte oder das Senden von Einladungscodes, um Patienten mit einem Arzt zu verbinden. Die Anwendung steht den Nutzern kostenlos zur Verfügung und ermöglicht eine Verbesserung und Überwachung der Gesundheitsversorgung ohne zusätzliche Kosten für einen Patienten oder ein Krankenhaus.",
-  "contact_note_cs": "Máte zájem o využití aplikace Heart Rate Detector ve Vaší nemocnice či ordinace? Kontaktujte nás na e-mailu níže a zajistíme Vám zdarma testovácí prostředí připravené na míru.",
-  "contact_note_en": "Would you like to use Heart Rate Detector app in your hospital or general practice? Contact us by e-mail below a to get customized test environment for free.",
+  "contact_note_cs": "Máte zájem o využití aplikace Heart Rate Detector ve Vaší nemocnici či ordinaci? Kontaktujte nás e-mailem a zajistíme Vám zdarma testovácí prostředí připravené na míru.",
+  "contact_note_en": "Would you like to use Heart Rate Detector app in your hospital or general practice? Contact us by e-mail below to get customized test environment for free.",
   "desc_pieces_cs": [
-    "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet srdeční tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění.",
+    "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění.",
     "Dalšími funkcemi jsou export dat ve formátu CSV, prohlížení historie pacientů nebo zasílání zvacích kódů pro spojení pacientů s lékařem. Aplikace je pro uživatele k dispozici zdarma a umožňuje zkvalitňování a sledování zdravotní péče bez dalších nákladů pro pacienta nebo nemocnici.",
     "Publikováno na <a href='https://openexchange.intersystems.com/package/Heart-Rate-Detector-1' target='_blank'>InterSystems Open Exchange portálu</a>."
   ],
@@ -33,7 +33,7 @@
   "points": [
     {
       "icon": "pulse.svg",
-      "title_cs": "Detekce srdečního tepu přes kameru mobilního telefonu",
+      "title_cs": "Detekce tepu přes kameru mobilního telefonu",
       "title_en": "Heart rate detection using mobile phone camera",
       "description_cs": "Není třeba žádné extérní zařízení, naměřte svůj tep snadno a hned.",
       "description_en": "No external equipment is needed, measure your heart rate easily and immediately."
@@ -43,7 +43,7 @@
       "title_cs": "Sdílení výsledků s lékařem",
       "title_en": "Results sharing with a doctor",
       "description_cs": "Výsledky měření jsou automaticky sdíleny s Vaším léčicím lékařem.",
-      "description_en": "The measurement results are automatically shared with your doctor."
+      "description_en": "Measurement results are automatically shared with your doctor."
     },
     {
       "icon": "csv.svg",
@@ -57,7 +57,7 @@
       "title_cs": "Podpora vícero platforem",
       "title_en": "Multiplatform support",
       "description_cs": "Na webu, v mobilním telefonu a tabletu s Android či iOS. Vždy po ruce!",
-      "description_en": "On the web, in your Android or iOS phone and tablet. Always at your fingertips!"
+      "description_en": "Available on the web, any Android or iOS device: always at your fingertips!"
     }
   ]
 }
