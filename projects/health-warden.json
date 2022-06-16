@@ -26,7 +26,7 @@
   "featureScreenshot": "app.png",
   "points": [
     {
-      "icon": "elderly.svg",
+      "icon": "elderly.png",
       "title_cs": "Optimalizované UI vhodné i pro starší pacienty",
       "title_en": "Optimized UI suitable even for elderly patients",
       "description_cs": "Aplikace se snadno používá, jelikož většina akcí vyžaduje jediné kliknutí.",
@@ -41,7 +41,7 @@
     },
     {
       "icon": "ai.svg",
-      "title_cs": "Maximální automatizace díky robustním algoritmům poháněným AI",
+      "title_cs": "Maximální automatizace díky AI",
       "title_en": "Maximal automation thanks to robust AI powered algorithms",
       "description_cs": "Aplikace automaticky provádí vyhodnocení stavu pacienta a upozorní lékaře až v případě komplikací.",
       "description_en": "The app automatically evaluates the patient's condition and notifies the doctor only in case of complications."
