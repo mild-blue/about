@@ -26,25 +26,25 @@
   "featureScreenshot": "app.png",
   "points": [
     {
-      "icon": "pulse.svg",
-      "title_cs": "Detekce srdečního tepu přes kameru mobilního telefonu",
-      "title_en": "Heart rate detection using mobile phone camera",
-      "description_cs": "Není třeba žádné extérní zařízení, naměřte svůj tep snadno a hned.",
-      "description_en": "No external equipment is needed, measure your heart rate easily and immediately."
+      "icon": "elderly.svg",
+      "title_cs": "Optimalizované UI vhodné i pro starší pacienty",
+      "title_en": "Optimized UI suitable even for elderly patients",
+      "description_cs": "Aplikace se snadno používá, jelikož většina akcí vyžaduje jediné kliknutí.",
+      "description_en": "The app is easy-to-use since most actions require just a single click."
     },
     {
       "icon": "doctor.svg",
       "title_cs": "Sdílení výsledků s lékařem",
       "title_en": "Results sharing with a doctor",
-      "description_cs": "Výsledky měření jsou automaticky sdíleny s Vaším léčicím lékařem.",
-      "description_en": "The measurement results are automatically shared with your doctor."
+      "description_cs": "Výsledky měření jsou automaticky sdíleny s lékařem.",
+      "description_en": "The measurement results are automatically shared with a doctor."
     },
     {
-      "icon": "csv.svg",
-      "title_cs": "Export dat do CSV",
-      "title_en": "Data export in CSV",
-      "description_cs": "Všechny výsledky lze stáhnout ve formátu CSV pro další analýzu.",
-      "description_en": "All results can be downloaded in CSV format for further analysis."
+      "icon": "ai.svg",
+      "title_cs": "Maximální automatizace díky robustním algoritmům poháněným AI",
+      "title_en": "Maximal automation thanks to robust AI powered algorithms",
+      "description_cs": "Aplikace automaticky provádí vyhodnocení stavu pacienta a upozorní lékaře až v případě komplikací.",
+      "description_en": "The app automatically evaluates the patient's condition and notifies the doctor only in case of complications."
     },
     {
       "icon": "platform.svg",
