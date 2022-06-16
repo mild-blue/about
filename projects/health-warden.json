@@ -6,7 +6,6 @@
   "subtitle_en": "Turning inpatients into outpatients",
   "subtitle_de": "Machen Sie stationäre Patienten zu ambulanten",
   "website": "https://warden.health",
-  "demo": "http://warden.health/",
   "email": "healthwarden@mild.blue",
   "desc_cs": "Heart Rate Detector je mobilní aplikace umožňující měřit, vyhodnocovat a sdílet srdeční tep detekovaný kamerou chytrého telefonu. Aplikace umožňuje pacientovi i lékaři sbírat zaznamenaná data a pracovat s nimi s cílem prevence či léčby srdečních onemocnění. Dalšími funkcemi jsou export dat ve formátu CSV, prohlížení historie pacientů nebo zasílání zvacích kódů pro spojení pacientů s lékařem. Aplikace je pro uživatele k dispozici zdarma a umožňuje zkvalitňování a sledování zdravotní péče bez dalších nákladů pro pacienta nebo nemocnici.",
   "desc_en": "Heart Rate Detector is a mobile app with the possibility to measure, evaluate and share heart pulse detected by a smartphone camera. The application allows both patient and doctor to collect recorded data over time and work with them both on a scale for the doctor taking care of the patient and in an anonymized form on a mass scale. Other functionalities are exporting data in CSV format, viewing patients' history, or sending invitation codes to connect patients with a doctor. The application is available free of charge for users, enabling improvement and monitoring of health care without any additional cost for a patient or a hospital.",
@@ -22,11 +21,9 @@
     "HealthWarden app shortens hospitalization time and provides smooth and safe contact between the doctor and the patient during outpatient treatment. It performs regular patient’s condition and health checks using state-of-the-art predictive AI algorithms. Any potential problems are reported to the doctor using anomaly detection tools. Each patient gets structures personalized care based on individual requirements, whereas doctors are provided with well-structured and easily accessible data on each patient as well as their cohort."
   ],
   "mainScreenshots": [
-    "hand.png",
-    "graphs.png"
+    "main.png"
   ],
-  "featureScreenshot": "login.png",
-  "demoScreenshot": "demo.jpg",
+  "featureScreenshot": "app.png",
   "points": [
     {
       "icon": "pulse.svg",
