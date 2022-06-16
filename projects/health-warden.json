@@ -27,8 +27,8 @@
   "points": [
     {
       "icon": "elderly.png",
-      "title_cs": "Optimalizované UI vhodné i pro starší pacienty",
-      "title_en": "Optimized UI suitable even for elderly patients",
+      "title_cs": "UI vhodné pro starší pacienty",
+      "title_en": "UI suitable for elderly patients",
       "description_cs": "Aplikace se snadno používá, jelikož většina akcí vyžaduje jediné kliknutí.",
       "description_en": "The app is easy-to-use since most actions require just a single click."
     },
