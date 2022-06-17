@@ -6,7 +6,51 @@
   "subtitle_en": "Smart speech2text tool for medical report creation",
   "subtitle_de": "Speech2text-Tool zur Erstellung von medizinischen Berichten",
   "website": "https://datavid.mild.blue",
+  "email": "datavid@mild.blue",
   "desc_cs": "Nástroj umožňující lékařské zprávy nikoliv psát, ale rovnou diktovat. Díky nejmodernějším metodám převodu řeči na text a porozumění tomuto textu lze vytvářet přehledné a strukturované lékařské zprávy za zlomek času, jenž lékaři potřebují nyní.  Projekt ve fázi funkčního prototypu.",
   "desc_en": "Easy to use tool that enables doctors to simplify the process of medical report creation. DataVID lets the doctor simply talk to the patient and automatically structures the speech into medical report. The project is in a working prototype phase.",
-  "desc_de": "Datavid ist ein bequemes Werkzeug, mit dem Ärzte das Verfassen von medizinischen Berichten einfacher haben. Sie können das Schreiben ganz auslassen. Mit diesem Werkzeug können die Ärzte den Bericht diktieren und die Rede wird sofort in einen medizinischen Bericht umwandelt. Das Projekt befindet sich in der Phase des funktionellen Prototyps."
+  "desc_de": "Datavid ist ein bequemes Werkzeug, mit dem Ärzte das Verfassen von medizinischen Berichten einfacher haben. Sie können das Schreiben ganz auslassen. Mit diesem Werkzeug können die Ärzte den Bericht diktieren und die Rede wird sofort in einen medizinischen Bericht umwandelt. Das Projekt befindet sich in der Phase des funktionellen Prototyps.",
+  "contact_note_cs": "Máte zájem o využití aplikace HealthWarden ve Vaší nemocnici? Kontaktujte nás e-mailem a přípravíme Vám nabídku na míru.",
+  "contact_note_en": "Would you like to use HealthWarden app in your hospital? Contact us by e-mail below a to get a customized offer.",
+  "desc_pieces_cs": [
+    "V současné době čelíme největší výzvě našeho století - CoViD-19. Nejstatečnější lidé, lékaři, zdravotní sestry, dobrovolníci a samozřejmě každý z vás bojuje s touto epidemií každý den. Chceme v tom pomoci našim nejdůležitějším válečníkům krize, lékaři a za tímto účelem jsme vytvořili DataVID.",
+    "Věděli jste, že jedno vyplnění každé lékařské zprávy zabere asi pět minut času lékaře? Co když můžeme ušetřit jen 2 minuty tohoto procesu? Dalo by se říci, že dvě minuty nejsou mnoho, ale pojďme si to s námi spočítat. Lékař vyšetří asi 10 lidí denně, to znamená, že lékař stráví denně asi 50 minut vyplňováním zpráv. A 20 z těchto minut lze ušetřit. WHO odhaduje, že na celém světě je přes 10 milionů lékařů. Pokud správně spočítáme, celková ušetřená doba je 3 333 333 hodin lékařského času za den! To je jen stěží představitelné. A úspora času je jen jednou z výhod DataVID. Díky AI a algoritmům a Natural Language Processing může DataVID vytvořit jednotnou databázi založenou na lékařských zprávách s čistými a konzistentními daty z celého světa. To pak výrazně usnadňuje další využití těchto dat například pro výzkumné nebo legislativní účely."
+  ],
+  "desc_pieces_en": [
+    "We are currently facing the biggest challenge of our century - CoViD-19. The most brave people, doctors, nurses, volunteers and of course each one of you fight with this epidemic every day. We want to help our most important warriors in this crisis, medical doctors, and for that purpose we created DataVID.",
+    "Did you know that one completion of each medical report takes around five minutes of doctor-time? What if we can save just 2 minutes of this process? One could say that two minutes is not much but lets do the math with us. Each doctor examines around 10 people per day, that means that a doctor spends around 50 minutes completing reports daily. And 20 of those minutes can be saved. The WHO estimates that there are over 10 million doctors worldwide. If we do the math correctly, and we do, the total saved time is 3 333 333 hours doctor-time per day! That is hardly imaginable. And time saving is just one of the advantages of DataVID. Thanks to AI and Natural Language Processing algorithms, DataVID can create unified database based on medical reports with clean and consistent data from around the world. This than makes further use of such data for example for research or legislative purposes much easier."
+  ],
+  "mainScreenshots": [
+    "main.png"
+  ],
+  "points": [
+    {
+      "icon": "ai.svg",
+      "title_cs": "Umělá inteligence",
+      "title_en": "Artificial Intelligence",
+      "description_cs": "DataVID je chytrý. Byl postaven s využitím high-tech algoritmů a je plně schopen čelit současné krizi. DataVID zajišťuje komunikaci s lékařem a umožňuje plynulou a snadnou analýzu dat.",
+      "description_en": "DataVID is smart. It was build with use of high-tech algorithms and is fully capable of facing the current crisis. DataVID handles communication with doctor and is capable of smooth and easy data analysis."
+    },
+    {
+      "icon": "voice-recognition.png",
+      "title_cs": "Rozpoznávání řeči",
+      "title_en": "Speech Recognition",
+      "description_cs": "DataVID využívá špičkové algoritmy pro rozpoznávání řeči pro převod řeči na text, snadno porozumí tomu, co se říká, a okamžitě to zapíše. Je to pravá ruka lékařů, vždy tam, vždy připravená.",
+      "description_en": "DataVID uses top speech recognition algorithms for speech to text conversion, can easily understand what is said and immediately writes it down. It is doctors‘ rights hand, always there, always ready."
+    },
+    {
+      "icon": "no-papers.png",
+      "title_cs": "Administrativní úleva",
+      "title_en": "Administrative release",
+      "description_cs": "DataVID je tu, aby sloužil vám všem, vážení lékaři! Uvolní vás z otravného vyplňování zpráv. Jen mluvte, vše bude zapsáno, jako byste to udělali vy. Váš čas a tvrdá práce můžete využít tam, kde je to nejvíce potřeba.",
+      "description_en": "DataVID is there to serve all of you, dear doctors! It will release you form annoying reports filling. Just speak, everything will be written down like you would do it. Your time and hard work can be used where it is needed the most."
+    },
+    {
+      "icon": "doctor-programmer.png",
+      "title_cs": "Lékaři a vývojáři",
+      "title_en": "Doctors & Developers",
+      "description_cs": "Jsme v tom spolu, všichni. Jsme chytří a taková by měla být i naše spolupráce. Pamatujte, že společně s našimi mozky, laskavostí a chytrými nástroji vyhrajeme.",
+      "description_en": "We are in it together, all of us. We are smart and so should be our cooperation. Remember, together, with our brains, kindness and clever tools, we will win."
+    }
+  ]
 }
