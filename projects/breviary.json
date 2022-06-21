@@ -10,6 +10,7 @@
   "email": "breviary@mild.blue",
   "ga": "G-Z6B8FX1ZKW",
   "pixel": "1076635099878376",
+  "facebook_domain_verification": "o4edch45nwneb17ofcbh98wh7c9miw",
   "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Aktuálně doporučuje dávkování inzulinu pro diabetes I. typu a heparinu při standardní heparinové terapii. Způsob výpočtu doporučení je plně transparentní, byl vyvinut v úzké spolupráci s IKEM a plně odpovídá metodám tam používaným.",
   "desc_en": "Virtual Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
   "desc_de": "Virtual Breviary ist eine benutzerfreundliche mobile App, mit der medizinisches Personal in kürzester Zeit die richtige Medikamentendosis berechnen können. Darüber hinaus werden anonyme Daten und Algorithmen für maschinelles Lernen verwendet, um die Berechnungen durchlaufend zu verbessern. Mild Blue Breviary kann über APIs in jedes Krankenhaus-IT-System einfach integriert werden und ist daher eine ideale Lösung für die modernen Berechnungen der Dosierung von Arzneimitteln.",
