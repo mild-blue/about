@@ -1,11 +1,9 @@
 [
   "breviary",
+  "health-warden",
   "txm",
   "datavid",
-  "ekg",
-  "ocr",
-  "covid-vaxx",
   "heart",
-  "health-warden",
-  "ecl"
+  "ecl",
+  "covid-vaxx"
 ]
