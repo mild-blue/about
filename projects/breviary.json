@@ -12,7 +12,7 @@
   "pixel": "1076635099878376",
   "facebook_domain_verification": "o4edch45nwneb17ofcbh98wh7c9miw",
   "desc_cs": "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Aktuálně doporučuje dávkování inzulinu pro diabetes I. typu a heparinu při standardní heparinové terapii. Způsob výpočtu doporučení je plně transparentní, byl vyvinut v úzké spolupráci s IKEM a plně odpovídá metodám tam používaným.",
-  "desc_en": "Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
+  "desc_en": "Breviary is an easy-to-use mobile and web app that helps healthcare workers calculate correct medication dosage and follow its history. The app can recommend insulin dosages for type I diabetes and heparin dosages for standard heparin treatment. The app was developed in close cooperation with IKEM and the calculation exactly matches methods used there.",
   "desc_de": "Breviary ist eine benutzerfreundliche mobile App, mit der medizinisches Personal in kürzester Zeit die richtige Medikamentendosis berechnen können. Darüber hinaus werden anonyme Daten und Algorithmen für maschinelles Lernen verwendet, um die Berechnungen durchlaufend zu verbessern. Mild Blue Breviary kann über APIs in jedes Krankenhaus-IT-System einfach integriert werden und ist daher eine ideale Lösung für die modernen Berechnungen der Dosierung von Arzneimitteln.",
   "contact_note_cs": "Máte zájem o využití aplikace Breviary ve Vaší nemocnici? Kontaktujte nás e-mailem a zajistíme Vám zdarma testovácí prostředí připravené na míru.",
   "contact_note_en": "Would you like to use Breviary app in your hospital? Contact us by e-mail below to get a customized test environment for free.",
@@ -23,7 +23,7 @@
   ],
   "desc_pieces_en": [
     "Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app can recommend insulin dosage for type I diabetes and heparin dosage for standard heparin treatment. The app was developed in close cooperation in IKEM and the calculation exactly matches methods used there.",
-    "The app can be easily integrated into any hospital system via API. It can also work independently or be integrated continuously, depending on the needs of specific institution.",
+    "The app can be easily integrated into any hospital system via API. It can also work independently or be integrated continuously, depending on the needs of specific institutions.",
     "Apart from dosage recommendation the app also stores and shows historical data. This enables the analysis of the patient's condition and its development and helps detect possible problems. Moreover, the collected anonymized data serve research purposes to find ways to improve the current algorithm."
   ],
   "mainScreenshots": [
