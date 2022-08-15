@@ -19,7 +19,7 @@
   "desc_pieces_cs": [
     "Breviary je jednoduchá, přehledná a rychlá mobilní a webová aplikace pomáhající zdravotníkům snadno spočítat správné dávkování léků a sledovat jeho historii. Je propojena s potřebnými nemocničními a laboratorními IT systémy a díky tomu umožňuje maximální zjednodušení a automatizaci celého procesu dávkování a administrace léčiv. Způsob výpočtu je plně transparentní a odpovídá nejnovějším vědeckým poznatkům.",
     "Aplikace je snadno integrovatelná do libovolného nemocničního systému pomocí API. Zároveň ale aplikace může fungovat i samostatně, či být integrována postupně, jak je u daného systému potřeba.",
-    "Kromě doporučování dávkování aplikace také umožňuje ukládat a ukazovat historická data. Průběh léčby pak lze jednoduše analyzovat a odhalit případné problémy. Zároveň lze sebraná anonymizovaná data použít k vědecko-výzkumným účelům a zřesnit stávající dávkovací algoritmy."
+    "Kromě doporučování dávkování aplikace také umožňuje ukládat a ukazovat historická data. Průběh léčby pak lze jednoduše analyzovat a odhalit případné problémy. Zároveň lze sebraná anonymizovaná data použít k vědecko-výzkumným účelům a zpřesnit stávající dávkovací algoritmy."
   ],
   "desc_pieces_en": [
     "Breviary is an easy to use mobile and web app that helps healthcare workers calculate correct medication dosage and follow the history. The app is fully connected with all relevant hospital IT systems to maximally automatize the process of drug dosage calculation and administration. All dosage calculation methods are fully transparent and follow the latest research.",
