@@ -21,7 +21,7 @@
   ],
   "desc_pieces_en": [
     "HealthWarden is a mobile and desktop app for complex outpatient care. The average cost of hospitalization per day exceeds $2500, worsening access to health care. Hospital overcrowding blocks other planned or even acute care interventions that could be provided. Doctors face a difficult decision every day: keep the patient in the hospital to make sure everything goes well, or send the patient home to free up hospital capacity?",
-    "HealthWarden app shortens hospitalization time and provides smooth and safe contact between the doctor and the patient during outpatient treatment. It performs regular patient’s condition and health checks using state-of-the-art predictive AI algorithms. Any potential problems are reported to the doctor using anomaly detection tools. Each patient gets structures personalized care based on individual requirements, whereas doctors are provided with well-structured and easily accessible data on each patient as well as their cohort."
+    "HealthWarden app shortens hospitalization time and provides smooth and safe contact between the doctor and the patient during outpatient treatment. It performs regular patient’s condition and health checks using state-of-the-art predictive AI algorithms. Any potential problems are reported to the doctor using anomaly detection tools. Each patient gets structured personalized care based on individual requirements, whereas doctors are provided with well-structured and easily accessible data on each patient as well as their cohort."
   ],
   "mainScreenshots": [
     "main.png"

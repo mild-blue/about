@@ -40,7 +40,7 @@
       "title_cs": "Plně integrovatelná do nemocničního informačního systému",
       "title_en": "Fully integrable into EHR systems",
       "description_cs": "Díky plné integraci do potřebých nemocničních systémů je práce s aplikací velice rychlá. Veškerá data jsou k dispozici automaticky bez nutnosti je znovu přepisovat.",
-      "description_en": "The application is fully integrated into all relevant hospital IT systems providing frictionless user experience. All data are loaded automatically without the need to copy-paste them."
+      "description_en": "The application is fully integrated into all relevant hospital IT systems providing frictionless user experience. Data is loaded automatically without the need for manual input."
     },
     {
       "icon": "security.png",
