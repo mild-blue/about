@@ -1,21 +1,12 @@
 {
-
   "key": "zuzana",
-
   "name": "BcA. Zuzana Červínová",
-
   "nick": "Zuzana",
-
   "email": "zuzana.cervinova@mild.blue",
-
-  "title_cs": "JUNIOR FRONTEND DEVELOPER",
-
-  "title_en": "JUNIOR FRONTEND DEVELOPER",
-
+  "title_cs": "Juniorní frontend vývojářka",
+  "title_en": "Junior Frontend Developer",
+  "title_de": "Junior Frontend Entwickler",
   "short_desc_en": "Zuzana is a Bachelor of Arts and a graduate of the Czechitas Digital Academy: Web. She now uses the skills gained during the course as well as her artistic sense at Mild Blue, where she works as a junior frontend developer.",
-
   "short_desc_de": "Zuzana ist Bachelor of Arts und Absolventin der Czechitas Digital Academy: Web. Ihre im Studium erworbenen Kenntnisse sowie ihr künstlerisches Gespür werden nun bei Mild Blue als Junior Frontend Developer eingesetzt und weiterentwickelt.",
-
   "short_desc_cs": "Zuzana je bakalář umění a absolvent kurzu Digitální akademie: Web v Czechitas. Znalosti, které získala na kurzu, stejně jako svůj umělecký cit, nyní využívá a rozvíjí v Mild Blue na pozici junior frontend developer."
-
 }
