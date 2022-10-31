@@ -6,6 +6,9 @@
 
 Information about us, our projects that will be presented anywhere. Mostly in JSON format..
 
+# UI
+This app is rendered by [Web presentation](https://github.com/mild-blue/project-web-presentation/)
+
 ## Social links settings
 
 Format:
