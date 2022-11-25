@@ -32,6 +32,10 @@
     "Plzeňská 168/27",
     "150 00 Praha 5"
   ],
+  "google_map" :{
+    "icon" : "location-dot",
+    "url" : "https://goo.gl/maps/gefENACQjCG2r5da7"
+  },
   "contact_person": "Ing. Tomáš Kouřim",
   "contact_person_phone_number": "+420723927536",
   "contact_person_email": "tomas@mild.blue",

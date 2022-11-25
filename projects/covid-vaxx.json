@@ -3,7 +3,6 @@
   "name_en": "Quick-vaxx",
   "subtitle_cs": "IT nástroj na provedení očkovací akce",
   "subtitle_en": "IT tool for super quick covid vaccination events",
-  "website": "https://ockovani.mild.blue",
   "email": "covid@mild.blue",
   "ga": "G-MB10XH8HMB",
   "desc_cs": "Rychloočko je nástroj zajišťující kompletní administrativu jednorázových očkovacích akcí, během nichž lze ve volebních místnostech proočkovat celou republiku za víkend. Umožňuje snadnou a intuitivní registraci pacientů přes webovou stránku  včetně validace zadaných dat vůči registru ISIN a zároveň v sobě zahrnuje administrační sekci, která zajišťuje hladký průběh očkování. Ta umožňuje přihlášeným očkujícím lékařům vyřídit veškerou administrativu s očkováním spojenou na pár kliků. Všechny potřebné údaje se automaticky propisují do ISIN a do zdravotních pojišťoven. Aplikace byla úspěšně použita při očkování 3000 pacientů během jednoho odpoledne v jedné škole  na Praze 7. Celé řešení je k dispozici jako open-source, zároveň Mild Blue nabízí komplexní organizační i IT support při realizaci podobné akce.",
