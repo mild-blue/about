@@ -59,6 +59,10 @@
     {
       "icon": "twitter",
       "url": "https://twitter.com/mildblueai"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/mild-blue"
     }
   ]
 }
