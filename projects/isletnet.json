@@ -2,13 +2,13 @@
   "name_cs": "IsletNet",
   "name_en": "IsletNet",
   "name_de": "IsletNet",
-  "subtitle_cs": "Webová služba kvantifikující pankreatické ostrůvky",
-  "subtitle_en": "Web service quantifying pancreatic islets",
-  "subtitle_de": "Automatisierter Webdienst für die Bewertung mikroskopischer Bilder von mit Dithizon gefärbten isolierten Pankreasinseln",
+  "subtitle_cs": "Webová služba kvantifikující mikroskopické snímky Langerhansových ostrůvků",
+  "subtitle_en": "Web service quantifying microscopic images of pancreatic islets",
+  "subtitle_de": "Webdienst zur Quantifizierung mikroskopischer Bilder von Pankreasinseln",
   "website": "https://isletnet.com",
   "desc_cs": "Automatizovaná webová služba věnovaná hodnocení mikroskopických snímků izolovaných pankreatických ostrůvků barvených dithizonem. Otevřený projekt spolupráce pro usnadnění mezilaboratorní standardizace. Vestavěné nástroje umožňují uživatelům ověřovat algoritmy IsletNet. Uživatelům můžou své snímky sdílet s vývojáři pomocí zaškrtávacího políčka na obrazovce výsledků. Sdílené obrázky se používají pro další trénování neuronových sítí za účelem neustálého zlepšování služeb.",
   "desc_en": "Automated web service dedicated to the assessment of microscopic images of dithizone-stained isolated pancreatic islets. Open collaborative project to facilitate inter-laboratory standardization. Inbuilt tools allow users to validate IsletNet algorithms. Users are encouraged to share their images with the developers using a checkbox on the result screen. Shared images are used for periodic training to continuously improve the service.",
   "desc_de": "",
-  "desc_short_cs": "Automatizovaná webová služba věnovaná hodnocení mikroskopických snímků izolovaných pankreatických ostrůvků barvených dithizonem pomocí neuronových sítí.",
+  "desc_short_cs": "Automatizovaná webová služba věnovaná hodnocení mikroskopických snímků izolovaných pankreatických ostrůvků barvených dithizonem pomocí neuronových sítí a zpracování obrazu.",
   "desc_short_en": "Automated web service assessing microscopic images of dithizone-stained isolated pancreatic islets based on a neural network and image processing."
 }
