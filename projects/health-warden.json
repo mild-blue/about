@@ -3,7 +3,7 @@
   "name_en": "HealthWarden",
   "name_de": "HealthWarden",
   "subtitle_cs": "Proměňte hospitalizované pacienty na ambulantní",
-  "subtitle_en": "Turning inpatients into outpatients",
+  "subtitle_en": "A telemedicine app that scales to life",
   "subtitle_de": "Machen Sie stationäre Patienten zu ambulanten",
   "website": "https://warden.health",
   "email": "healthwarden@mild.blue",
@@ -13,6 +13,8 @@
   "desc_cs": "HealthWarden je mobilní a desktopová aplikace pro komplexní vzdálenou péči. Aplikace HealthWarden zkracuje dobu hospitalizace a zprostředkovává bezpečnou a snadnou komunikaci mezi lékařem a pacientem i po propuštění z nemocnice. Aplikace provádí pravidelné kontroly zdravotního stavu pacienta dle požadavků konkrétního zákroku a stavu pacienta. Jakékoli potenciální problémy jsou hlášeny lékaři. Každý pacient takto získává strukturovanou personalizovanou péči založenou na individuálních požadavcích, zatímco lékařům jsou poskytnutá dobře strukturovaná a snadno dostupná data o každém pacientovi i vývoji jeho léčby.",
   "desc_en": "HealthWarden is a mobile and desktop app for complex outpatient care. HealthWarden app shortens hospitalization time and provides smooth and safe contact between the doctor and the patient during outpatient treatment. It performs regular patient’s condition and health checks using state-of-the-art predictive AI algorithms. Any potential problems are reported to the doctor using anomaly detection tools. Each patient gets structures personalized care based on individual requirements, whereas doctors are provided with well-structured and easily accessible data on each patient as well as their cohort.",
   "desc_de": "HealthWarden ist eine mobile und Desktop-App für die komplexe ambulante Versorgung. Die HealthWarden-App verkürzt die Krankenhausaufenthaltszeit und sorgt für einen reibungslosen und sicheren Kontakt zwischen Arzt und Patient während der ambulanten Behandlung. Es führt regelmäßige Zustands- und Gesundheitschecks des Patienten mit modernsten prädiktiven KI-Algorithmen durch. Alle potenziellen Probleme werden dem Arzt mithilfe von Anomalieerkennungstools gemeldet. Jeder Patient erhält eine strukturierte personalisierte Versorgung basierend auf den individuellen Anforderungen, während Ärzte gut strukturierte und leicht zugängliche Daten zu jedem Patienten sowie seiner Kohorte erhalten.",
+  "desc_short_cs": "",
+  "desc_short_en": "A mobile and desktop app for complex outpatient care. Patients use mobile app to record their symptoms outside hospital settings and doctors use the web app to monitor the progress of their patients and receive objective data.",
   "contact_note_cs": "Máte zájem o využití aplikace HealthWarden ve Vaší nemocnici? Kontaktujte nás e-mailem a přípravíme Vám nabídku na míru.",
   "contact_note_en": "Would you like to use HealthWarden app in your hospital? Contact us by e-mail below a to get a customized offer.",
   "desc_pieces_cs": [
