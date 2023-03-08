@@ -2,13 +2,13 @@
   "name_cs": "IsletNet",
   "name_en": "IsletNet",
   "name_de": "IsletNet",
-  "subtitle_cs": "Automatizovaná webová služba věnovaná hodnocení mikroskopických snímků izolovaných pankreatických ostrůvků barvených dithizonem",
+  "subtitle_cs": "Webová služba kvantifikující pankreatické ostrůvky",
   "subtitle_en": "Web service quantifying pancreatic islets",
   "subtitle_de": "Automatisierter Webdienst für die Bewertung mikroskopischer Bilder von mit Dithizon gefärbten isolierten Pankreasinseln",
   "website": "https://isletnet.com",
   "desc_cs": "",
   "desc_en": "",
   "desc_de": "",
-  "desc_short_cs": "",
+  "desc_short_cs": "Automatizovaná webová služba věnovaná hodnocení mikroskopických snímků izolovaných pankreatických ostrůvků barvených dithizonem pomocí neuronových sítí.",
   "desc_short_en": "Automated web service assessing microscopic images of dithizone-stained isolated pancreatic islets based on a neural network and image processing."
 }
