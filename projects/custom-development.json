@@ -1,0 +1,31 @@
+{
+  "name_cs": "Vývoj software na míru",
+  "name_en": "Custom software development",
+  "name_de": "",
+  "subtitle_cs": "Digitalizační partner pro zdravotnická zařízení",
+  "subtitle_en": "Digitalisation partner for healthcare institutions",
+  "subtitle_de": "",
+  "desc_cs": "We keep up with modern technologies but understand the specifics of healthcare.",
+  "desc_en": "Držíme krok s moderními technologiemi, ale rozumíme specifikám zdravotnictví.",
+  "desc_de": "",
+  "offering_cs": [],
+  "offering_en": [
+    "We provide customized software development for healthcare institutions that meet your specific needs and challenges.",
+    "We work collaboratively with healthcare professionals to develop solutions that enhance patient care, increase efficiency, and reduce costs.",
+    "We leverage cutting-edge AI and data analysis to deliver software that can improve diagnosis accuracy, optimize workflows, and provide insights.",
+    "Our team consists of highly skilled experts in artificial intelligence, software development, security, and medicine who have deep knowledge and experience in the healthcare industry.",
+    "We are based in Prague and offer an affordable and competitive pricing for our software development services.",
+    "We are adaptable with technologies, agile with development, and trustworthy with delivery."
+  ],
+  "offering_keywords_en": [
+    "customized",
+    "specific",
+    "collaboratively with healthcare professionals",
+    "AI and data analysis",
+    "highly skilled experts",
+    "affordable and competitive",
+    "adaptable",
+    "agile",
+    "trustworthy"
+  ]
+}
