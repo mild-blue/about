@@ -17,6 +17,8 @@
     "slp.blue obsahuje úplnou funkcionalitu elektronického řízení dokumentace včetně řízení verzí jednotlivých dokumentů, řízení procesu kontroly a schvalování nových verzí, nastavení data platnosti a řízení procesu seznamování se změnami v dokumentech. Umožňuje také tisk dokumentů včetně formálních náležitostí jako je úvodní strana a hlavička spolu s následnou správou jednotlivých výtisků (číslo exempláře, počet, umístění, verze, majitel)."
   ],
   "desc_pieces_en": [
+    "slp.blue is a tool for managing laboratory documentation and its natural linking with national and local code lists. It helps with compliance with accreditation regulations and streamlines the work with documents for quality managers, doctors, laboratory technicians and analysts. It allows managing documentation with regard to the special needs of laboratories including support for reference limits, outlines, linking, dynamic creation of laboratory manuals and reporting in DASTA format.",
+    "slp.blue contains the complete functionality of electronic document management including managing versions of individual documents, managing the process of checking and approving new versions, setting the validity date and managing the process of familiarizing yourself with changes in documents. It also allows printing documents including formal requirements such as the cover page and header along with subsequent management of individual copies (copy number, quantity, location, version, owner)."
   ],
   "mainScreenshots": [
     "main.png"
@@ -25,30 +27,30 @@
     {
       "icon": "history.svg",
       "title_cs": "Elektronické řízení dokumentace",
-      "title_en": "",
+      "title_en": "Electronic document management",
       "description_cs": "Kompletní správa životního cyklu dokumentů podle platných směrnic včetně tisku.",
-      "description_en": ""
+      "description_en": "Complete management of document life cycle according to valid guidelines including printing."
     },
     {
       "icon": "settings.svg",
       "title_cs": "Správa číselníků",
-      "title_en": "",
+      "title_en": "Code list management",
       "description_cs": "Dokumenty jsou provázány s národními a lokálními číselníky, které lze pomocí nástroje spravovat.",
-      "description_en": ""
+      "description_en": "Documents are linked to national and local code lists that can be managed using the tool."
     },
     {
       "icon": "integration.png",
       "title_cs": "Dynamická tvorba laboratorní příručky",
-      "title_en": "",
+      "title_en": "Dynamic creation of laboratory manual",
       "description_cs": "Interní i veřejná příručka se vytváří automaticky z vybraných dokumentů do přizpůsobitelné šablony.",
-      "description_en": ""
+      "description_en": "Internal and public manual is created automatically from selected documents into a customizable template."
     },
     {
       "icon": "web.png",
       "title_cs": "Přístupný z webového prohlížeče",
-      "title_en": "",
-      "description_cs": "Všechny funkcionality jsou dostupné odkudkoliv z webového prohlížeče bez nutnosti instalace dalšího software.",
-      "description_en": ""
+      "title_en": "Accessible from web browser",
+      "description_cs": "Všechny funkcionality jsou dostupné z jakéhokoliv zařízení s webovým prohlížečem.", 
+      "description_en": "All functionalities are available from any device with a web browser."
     }
   ]
 }
