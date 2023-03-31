@@ -13,7 +13,7 @@
   "contact_note_cs": "Předvedení nového nástroje slp.blue je plánováno na 10.5.2023 v rámci mimořádného semináře SLP v Praze ve velkém přednáškovém sále IKEM. Zde budou k dispozici další informace i první praktické ukázky. Neváhejte nás ale kdykoli kontaktovat na:",
   "contact_note_en": "Would you like to use slp.blue in your laboratory? Contact us by e-mail below a to get a customized offer.",
   "desc_pieces_cs": [
-    "slp.blue je nástroj na správu laboratorní dokumentace a její přirozené provázání s národními a lokálními číselníky. Pomáhá s dodržováním akreditačních předpisů a zefektivňuje práci s dokumenty manažerům kvality, lékařům, laborantům i analytikům.  Umožňuje řízení dokumentace s ohledem na speciální potřeby laboratoří včetně podpory referenčních mezí, osnov, prolinkování, dynamické tvorby laboratorní příručky a reportu v DASTA formátu.", 
+    "slp.blue je nástroj na správu laboratorní dokumentace a její přirozené provázání s národními a lokálními číselníky. Pomáhá s dodržováním akreditačních předpisů a zefektivňuje práci s dokumenty manažerům kvality, lékařům, laborantům i analytikům. Umožňuje řízení dokumentace s ohledem na speciální potřeby laboratoří včetně podpory referenčních mezí, osnov, prolinkování, dynamické tvorby laboratorní příručky a reportu v DASTA formátu.", 
     "slp.blue obsahuje úplnou funkcionalitu elektronického řízení dokumentace včetně řízení verzí jednotlivých dokumentů, řízení procesu kontroly a schvalování nových verzí, nastavení data platnosti a řízení procesu seznamování se změnami v dokumentech. Umožňuje také tisk dokumentů včetně formálních náležitostí jako je úvodní strana a hlavička spolu s následnou správou jednotlivých výtisků (číslo exempláře, počet, umístění, verze, majitel)."
   ],
   "desc_pieces_en": [
@@ -26,14 +26,14 @@
       "icon": "history.svg",
       "title_cs": "Elektronické řízení dokumentace",
       "title_en": "",
-      "description_cs": "Kompletní správa životního cyklu dokumentů podle platních směrnic včetně tisku.",
+      "description_cs": "Kompletní správa životního cyklu dokumentů podle platných směrnic včetně tisku.",
       "description_en": ""
     },
     {
       "icon": "settings.svg",
       "title_cs": "Správa číselníků",
       "title_en": "",
-      "description_cs": "Dokumenty jsou provázány s národními a lokálními číselníky laboratorních, které lze pomocí nástroje spravovat.",
+      "description_cs": "Dokumenty jsou provázány s národními a lokálními číselníky, které lze pomocí nástroje spravovat.",
       "description_en": ""
     },
     {
@@ -47,7 +47,7 @@
       "icon": "web.png",
       "title_cs": "Přístupný z webového prohlížeče",
       "title_en": "",
-      "description_cs": "Všechny funkcionality jsou dostupné z webového prohlížeče bez nutnosti dalšího software.",
+      "description_cs": "Všechny funkcionality jsou dostupné odkudkoliv z webového prohlížeče bez nutnosti instalace dalšího software.",
       "description_en": ""
     }
   ]
