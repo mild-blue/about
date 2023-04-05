@@ -2,9 +2,9 @@
   "name_cs": "HealthWarden",
   "name_en": "HealthWarden",
   "name_de": "HealthWarden",
-  "subtitle_cs": "Proměňte hospitalizované pacienty na ambulantní",
-  "subtitle_en": "Turning inpatients into outpatients",
-  "subtitle_de": "Machen Sie stationäre Patienten zu ambulanten",
+  "subtitle_cs": "Vzdálená péče o pacienty, co se přizpůsobí životu",
+  "subtitle_en": "Remote patient care adaptable to life",
+  "subtitle_de": "",
   "website": "https://warden.health",
   "email": "healthwarden@mild.blue",
   "ga": "G-1QCP958XBT",
@@ -15,48 +15,43 @@
   "desc_de": "HealthWarden ist eine mobile und Desktop-App für die komplexe ambulante Versorgung. Die HealthWarden-App verkürzt die Krankenhausaufenthaltszeit und sorgt für einen reibungslosen und sicheren Kontakt zwischen Arzt und Patient während der ambulanten Behandlung. Es führt regelmäßige Zustands- und Gesundheitschecks des Patienten mit modernsten prädiktiven KI-Algorithmen durch. Alle potenziellen Probleme werden dem Arzt mithilfe von Anomalieerkennungstools gemeldet. Jeder Patient erhält eine strukturierte personalisierte Versorgung basierend auf den individuellen Anforderungen, während Ärzte gut strukturierte und leicht zugängliche Daten zu jedem Patienten sowie seiner Kohorte erhalten.",
   "desc_short_cs": "Mobilní a desktopová aplikace pro komplexní ambulantní péči. Pacienti používají mobilní aplikaci k zaznamenávání příznaků mimo nemocniční prostředí a lékaři používají webovou aplikaci ke sledování pokroku svých pacientů a získávání objektivních dat.",
   "desc_short_en": "A mobile and desktop app for complex outpatient care. Patients use mobile app to record their symptoms outside hospital settings and doctors use the web app to monitor the progress of their patients and receive objective data.",
-  "contact_note_cs": "Máte zájem o využití aplikace HealthWarden ve Vaší nemocnici? Kontaktujte nás e-mailem a přípravíme Vám nabídku na míru.",
-  "contact_note_en": "Would you like to use HealthWarden app in your hospital? Contact us by e-mail below a to get a customized offer.",
+  "contact_note_cs": "Zaujaly Vás možnosti Healthwardenu a chcete zjistit, jak by mohl fungovat ve Vaší nemocnici? Kontaktujte nás e-mailem pro nabídku na míru.",
+  "contact_note_en": "Are you interested in the possibilities of Healthwarden and want to find out how it could work in your hospital? Contact us by email for a tailor-made offer.",
   "desc_pieces_cs": [
-    "HealthWarden je mobilní a desktopová aplikace pro komplexní vzdálenou péči. Průměrné náklady na hospitalizaci za den přesahují 55 000 Kč, což zhoršuje dostupnost zdravotní péče. Přeplněnost nemocnic blokuje vykonání jiných plánovaných i akutních zákroků. Lékaři každý den stojí před těžkým rozhodnutím: nechat pacienta v nemocnici, aby zůstal pod dohledem odborníků, anebo poslat pacienta domů za účelem uvolnění kapacity nemocnice?",
-    "Aplikace HealthWarden zkracuje dobu hospitalizace a poskytuje hladkou a bezpečnou komunikaci mezi lékařem a pacientem během ambulantní léčby. Aplikace provádí pravidelné kontroly zdravotního stavu pacienta dle požadavků konkrétního zákroku a stavu pacienta. Jakékoli potenciální problémy jsou hlášeny lékaři. Každý pacient takto získává strukturovanou personalizovanou péči založenou na individuálních požadavcích, zatímco lékařům je poskytnutá dobře strukturovaná a snadno dostupná data o každém pacientovi i vývoji jeho léčby."
+    "HealthWarden je mobilní aplikace pro pacienty a webový portál pro doktory pro komplexní vzdálenou péči. Je od základu vyvíjen tak, aby se dokázal přizpůsobit možnostem pacienta, potřebám lékaře i specifikám konkrétní diagnózy. Healthwarden je nástroj na vzdálenou péči o pacienty, co se přizpůsobí životu.",
+    "Lékaři používáním Healthwardenu získají stoprocentní kontrolu na obsahem vzdálené péče ale díky automatizacím si přidají minimální zátěž. HealthWarden obsahuje přizpůsobitelné šablony a automatizované procesy pro rychlé a jednoduché zavedení pacienta. Zároveň nabízí flexibilní integrace do stávajících informačních systémů tak, aby mohl lékař dostávat informace tam, kde je na to zvyklý.",
+    "Díky Healthwardenu může lékař kontinuálně sledovat vitalitu pacienta a to před i po intervenci. Může nastavit virtuální vizitu a upravovat nejen její obsah ale i frekvenci a meze kritických odpovědí. Zároveň můžou být pacientovi připomínány lékařská doporučení a medikace."
   ],
   "desc_pieces_en": [
-    "HealthWarden is a mobile and desktop app for complex outpatient care. The average cost of hospitalization per day exceeds $2500, worsening access to health care. Hospital overcrowding blocks other planned or even acute care interventions that could be provided. Doctors face a difficult decision every day: keep the patient in the hospital to make sure everything goes well, or send the patient home to free up hospital capacity?",
-    "HealthWarden app shortens hospitalization time and provides smooth and safe contact between the doctor and the patient during outpatient treatment. It performs regular patient’s condition and health checks using state-of-the-art predictive AI algorithms. Any potential problems are reported to the doctor using anomaly detection tools. Each patient gets structured personalized care based on individual requirements, whereas doctors are provided with well-structured and easily accessible data on each patient as well as their cohort."
+    "HealthWarden is a mobile application for patients and a web portal for doctors for comprehensive remote care. It is developed from the ground up to be able to adapt to the patient's capabilities, the doctor's needs and the specifics of a particular diagnosis. Healthwarden is a tool for remote patient care that adapts to life.",
+    "By using Healthwarden, doctors gain 100% control over the content of remote care while adding minimal burden thanks to automation. HealthWarden contains customizable templates and automated processes for quick and easy patient onboarding. It also offers flexible integration into existing information systems so that the doctor can receive information where they are used to it.",
+    "Thanks to Healthwarden, the doctor can continuously monitor the patient's vitality before and after intervention. They can set up a virtual visit and adjust not only its content but also its frequency and limits of critical responses. At the same time, medical recommendations and medication can be reminded to the patient."
   ],
   "mainScreenshots": [
-    "main.png"
+    "hw-both.png"
   ],
-  "featureScreenshot": "app.png",
+  "featureScreenshot": "",
   "points": [
     {
       "icon": "elderly.png",
-      "title_cs": "UI vhodné pro starší pacienty",
-      "title_en": "UI suitable for elderly patients",
-      "description_cs": "Aplikace se snadno používá, jelikož většina akcí vyžaduje jediné kliknutí.",
-      "description_en": "The app is easy-to-use since most actions require just a single click."
+      "title_cs": "Pro pacienty: větší komfort, důvera a spokojenost s péčí",
+      "title_en": "For patients: greater comfort, trust and satisfaction with care",
+      "description_cs": "Pacienti získají personalizovanou pozornost, dobrou informovanost a můžou sledovat vlastní pokrok.",
+      "description_en": "Patients will receive personalized attention, accessible information and can track their own progress."
     },
     {
       "icon": "doctor.svg",
-      "title_cs": "Sdílení výsledků s lékařem",
-      "title_en": "Results sharing with a doctor",
-      "description_cs": "Výsledky měření jsou automaticky sdíleny s lékařem.",
-      "description_en": "Measurement results are automatically shared with a doctor."
+      "title_cs": "Pro lékaře: úspora času a objektivizace informací",
+      "title_en": "For doctors: time savings and objectification of information",
+      "description_cs": "přehledná a přesná sumarizace dosavadního průbehu léčby pro celou kohortu pacientů s nastavitelnými upozorněními.",
+      "description_en": "Clear and accurate summary of the course of treatment so far for the entire cohort of patients with adjustable alerts."
     },
     {
-      "icon": "ai.svg",
-      "title_cs": "Maximální automatizace",
-      "title_en": "Maximal automation thanks to AI",
-      "description_cs": "Aplikace automaticky provádí vyhodnocení stavu pacienta a upozorní lékaře v případě komplikací.",
-      "description_en": "The app automatically evaluates the patient's condition and notifies the doctor only in case of complications."
-    },
-    {
-      "icon": "platform.svg",
-      "title_cs": "Podpora vícero platforem",
-      "title_en": "Multiplatform support",
-      "description_cs": "Na webu, v mobilním telefonu a tabletu s Android či iOS. Vždy po ruce pro pacietna i lékaře!",
-      "description_en": "Available on the web, any Android or iOS device: always at your fingertips!"
+      "icon": "hospital.png",
+      "title_cs": "Pro nemocnice: efektivnější využití prostředkú",
+      "title_en": "For hospitals: more efficient use of resources",
+      "description_cs": "Kvalitní vzdálená péče umožní zkrácení hospitalizace, prevenci rehospitalizaví a automatizaci follow-up procesů.",
+      "description_en": "Quality remote care will enable shorter hospitalization, prevention of rehospitalization and automation of follow-up processes."
     }
   ]
 }
