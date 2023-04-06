@@ -1,0 +1,46 @@
+{
+  "best_articles": [
+    {
+      "date": "2022-03-01",
+      "title": "IT aplikace od studentů FIT ČVUT a jejich týmů z mezinárodní soutěže mohou přispívat k záchraně životů",
+      "url": "https://www.businessinfo.cz/clanky/it-aplikace-od-studentu-fit-cvut-a-jejich-tymu-z-mezinarodni-souteze-mohou-prispivat-k-zachrane-zivotu/",
+      "img": "EHH businessinfo.cz.webp",
+      "source": "businessinfo.cz",
+      "tags": [
+        "article",
+        "Team"
+      ]
+    },
+    {
+      "date": "2022-03-03",
+      "title": "Studenti z FIT ČVUT uspěli v mezinárodní soutěži. Aplikace mají potenciál zachraňovat životy",
+      "url": "https://sj.news/studenti-z-fit-cvut-uspeli-v-mezinarodni-soutezi-aplikace-maji-potencial-zachranovat-zivoty/",
+      "img": "EHH sj.news.webp",
+      "source": "sj.news",
+      "tags": [
+        "article",
+        "Team"
+      ]
+    }
+      ]
+    }
+  ],
+  "urls": [
+    "https://www.businessinfo.cz/clanky/it-aplikace-od-studentu-fit-cvut-a-jejich-tymu-z-mezinarodni-souteze-mohou-prispivat-k-zachrane-zivotu/",
+    "https://sj.news/studenti-z-fit-cvut-uspeli-v-mezinarodni-soutezi-aplikace-maji-potencial-zachranovat-zivoty/"
+  ],
+  "media": [
+    {
+      "title": "Reportáž Hackathon IKEM 2022",
+      "title_en": "Hackathon IKEM 2022 report",
+      "url": "https://youtu.be/9ftqAUnA37A",
+      "start_time": "0:00:00"
+    },
+    {
+      "title": "Closing Ceremony HACKATHON 2022",
+      "title_en": "Closing Ceremony HACKATHON 2022",
+      "url": "https://youtu.be/RkkxvYMEurc",
+      "start_time": "0:00:00"
+    }
+  ]
+}
