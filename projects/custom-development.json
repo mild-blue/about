@@ -8,9 +8,28 @@
   "desc_cs": "We keep up with modern technologies but understand the specifics of healthcare.",
   "desc_en": "Držíme krok s moderními technologiemi, ale rozumíme specifikám zdravotnictví.",
   "desc_de": "",
-  "offering_cs": [],
+  "offering_cs": [
+    "Vyvíjíme software na míru pro zdravotnická zařízení, který se přizpůsobí vašim specifickým potřebám a výzvám.",
+    "Řešení vyvíjíme vždy v úzké spolupráci se zdravotníky", 
+    "Využíváme nejmodernější algoritmy umělé inteligence a analýzu dat", 
+    "Výsledek naší spolupráce je software, který může zlepšit péči o pacienty, optimalizovat pracovní postupy a poskytnout důležitý vhled do aktuálních procesů.",
+    "Náš tým se skládá z vysoce kvalifikovaných odborníků v oblasti umělé inteligence, vývoje softwaru, bezpečnosti a medicíny, kteří mají hluboké znalosti a zkušenosti v oblasti zdravotnictví.",
+    "Jsme přizpůsobiví s technologiemi, agilní s vývojem a důvěryhodní s dodáním."
+  ],
+  "offering_keywords_cs": [
+    "software na míru",
+    "v úzké spolupráci",
+    "umělé inteligence a analýzu dat",
+    "zlepšit",
+    "optimalizovat",
+    "vhled",
+    "vysoce kvalifikovaných odborníků",
+    "přizpůsobiví",
+    "agilní",
+    "důvěryhodní"
+  ],
   "offering_en": [
-    "We provide customized software development for healthcare institutions that meet your specific needs and challenges.",
+    "We provide customized software development for healthcare institutions that meets your specific needs and challenges.",
     "We work collaboratively with healthcare professionals to develop solutions that enhance patient care, increase efficiency, and reduce costs.",
     "We leverage cutting-edge AI and data analysis to deliver software that can improve diagnosis accuracy, optimize workflows, and provide insights.",
     "Our team consists of highly skilled experts in artificial intelligence, software development, security, and medicine who have deep knowledge and experience in the healthcare industry.",
