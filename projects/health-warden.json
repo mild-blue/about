@@ -19,13 +19,13 @@
   "contact_note_en": "Are you interested in the possibilities of Healthwarden and want to find out how it could work in your hospital? Contact us by email for a tailor-made offer.",
   "desc_pieces_cs": [
     "HealthWarden je mobilní aplikace pro pacienty a webový portál pro doktory pro komplexní vzdálenou péči. Je od základu vyvíjen tak, aby se dokázal přizpůsobit možnostem pacienta, potřebám lékaře i specifikám konkrétní diagnózy. Healthwarden je nástroj na vzdálenou péči o pacienty, co se přizpůsobí životu.",
-    "Lékaři používáním Healthwardenu získají stoprocentní kontrolu na obsahem vzdálené péče ale díky automatizacím si přidají minimální zátěž. HealthWarden obsahuje přizpůsobitelné šablony a automatizované procesy pro rychlé a jednoduché zavedení pacienta. Zároveň nabízí flexibilní integrace do stávajících informačních systémů tak, aby mohl lékař dostávat informace tam, kde je na to zvyklý.",
-    "Díky Healthwardenu může lékař kontinuálně sledovat vitalitu pacienta a to před i po intervenci. Může nastavit virtuální vizitu a upravovat nejen její obsah ale i frekvenci a meze kritických odpovědí. Zároveň můžou být pacientovi připomínány lékařská doporučení a medikace."
+    "Lékaři používáním Healthwardenu získají stoprocentní kontrolu nad obsahem vzdálené péče ale díky automatizacím to pro ně nebude představovat žádnou zátěž navíc. HealthWarden obsahuje přizpůsobitelné šablony a automatizované procesy pro rychlé a jednoduché zavedení pacienta. Zároveň nabízí flexibilní integrace do stávajících informačních systémů tak, aby mohl lékař dostávat informace tam, kde je na to zvyklý.",
+    "Díky Healthwardenu může lékař kontinuálně sledovat vitalitu pacienta a to před i po intervenci. Může nastavit virtuální vizitu a upravovat nejen její obsah ale i frekvenci a meze kritických odpovědí. Zároveň můžou být pacientovi pravidelně připomínána lékařská doporučení či medikace."
   ],
   "desc_pieces_en": [
-    "HealthWarden is a mobile application for patients and a web portal for doctors for comprehensive remote care. It is developed from the ground up to be able to adapt to the patient's capabilities, the doctor's needs and the specifics of a particular diagnosis. Healthwarden is a tool for remote patient care that adapts to life.",
-    "By using Healthwarden, doctors gain 100% control over the content of remote care while adding minimal burden thanks to automation. HealthWarden contains customizable templates and automated processes for quick and easy patient onboarding. It also offers flexible integration into existing information systems so that the doctor can receive information where they are used to it.",
-    "Thanks to Healthwarden, the doctor can continuously monitor the patient's vitality before and after intervention. They can set up a virtual visit and adjust not only its content but also its frequency and limits of critical responses. At the same time, medical recommendations and medication can be reminded to the patient."
+    "HealthWarden is a mobile application for patients and a web portal for doctors for comprehensive remote care. It is developed to be able to adapt to the patient's capabilities, the doctor's needs and the specifics of a particular diagnosis. Healthwarden is a tool for remote patient care that adapts to life.",
+    "By using Healthwarden, doctors gain 100% control over the content of remote care while adding no burden thanks to automation. HealthWarden contains customizable templates and automated processes for quick and easy patient onboarding. It also offers flexible integration into existing information systems so that the doctors can receive information where they are used to it.",
+    "Thanks to Healthwarden, the doctors can continuously monitor the patient's vitality before and after intervention. They can set up a virtual visit and adjust not only its content but also its frequency and limits of critical responses. At the same time, medical recommendations and medication can be regularly reminded to the patient."
   ],
   "mainScreenshots": [
     "hw-both.png"
@@ -35,7 +35,7 @@
     {
       "icon": "elderly.png",
       "title_cs": "Pro pacienty: větší komfort, důvera a spokojenost s péčí",
-      "title_en": "For patients: greater comfort, trust and satisfaction with care",
+      "title_en": "For patients: greater comfort, trust and satisfaction with provided care",
       "description_cs": "Pacienti získají personalizovanou pozornost, dobrou informovanost a můžou sledovat vlastní pokrok.",
       "description_en": "Patients will receive personalized attention, accessible information and can track their own progress."
     },
@@ -43,15 +43,15 @@
       "icon": "doctor.svg",
       "title_cs": "Pro lékaře: úspora času a objektivizace informací",
       "title_en": "For doctors: time savings and objectification of information",
-      "description_cs": "přehledná a přesná sumarizace dosavadního průbehu léčby pro celou kohortu pacientů s nastavitelnými upozorněními.",
-      "description_en": "Clear and accurate summary of the course of treatment so far for the entire cohort of patients with adjustable alerts."
+      "description_cs": "Přehledná a přesná sumarizace dosavadního průbehu léčby pro celou kohortu pacientů s nastavitelnými upozorněními.",
+      "description_en": "Clear and accurate summary of the course of the treatment to date for the entire cohort of patients with adjustable alerts."
     },
     {
       "icon": "hospital.png",
-      "title_cs": "Pro nemocnice: efektivnější využití prostředkú",
+      "title_cs": "Pro nemocnice: efektivnější využití prostředků",
       "title_en": "For hospitals: more efficient use of resources",
-      "description_cs": "Kvalitní vzdálená péče umožní zkrácení hospitalizace, prevenci rehospitalizaví a automatizaci follow-up procesů.",
-      "description_en": "Quality remote care will enable shorter hospitalization, prevention of rehospitalization and automation of follow-up processes."
+      "description_cs": "Kvalitní vzdálená péče umožní zkrácení hospitalizace, prevenci rehospitalizací a automatizaci follow-up procesů.",
+      "description_en": "Quality remote care will enable shorter hospitalization times, prevention of rehospitalization and automation of follow-up processes."
     }
   ]
 }
