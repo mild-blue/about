@@ -1,0 +1,57 @@
+{
+  "name_cs": "slp.blue",
+  "name_en": "slp.blue",
+  "name_de": "slp.blue",
+  "subtitle_cs": "Moderní správa laboratorní dokumentace a číselníků",
+  "subtitle_en": "Modern management of laboratory documentation and registers",
+  "subtitle_de": "Moderne Verwaltung von Labor-Dokumentation und Registern",
+  "website": "https://slp.blue",
+  "email": "info@slp.blue",
+  "desc_cs": "slp.blue je nástroj na správu laboratorní dokumentace a její přirozené provázání s národními a lokálními číselníky. Pomáhá s dodržováním akreditačních předpisů a zefektivňuje práci s dokumenty manažerům kvality, lékařům, laborantům i analytikům. Umožňuje řízení dokumentace s ohledem na speciální potřeby laboratoří včetně podpory referenčních mezí, osnov, prolinkování, dynamické tvorby laboratorní příručky a reportu v DASTA formátu. slp.blue obsahuje úplnou funkcionalitu elektronického řízení dokumentace včetně řízení verzí jednotlivých dokumentů, řízení procesu kontroly a schvalování nových verzí.",
+  "desc_en": "slp.blue is a tool for managing laboratory documentation and its natural linking with national and local code lists. It helps with compliance with accreditation regulations and streamlines the work with documents for quality managers, doctors, laboratory technicians and analysts. slp.blue contains the complete functionality of electronic document management including managing versions of individual documents, managing the process of checking and approving new versions, setting the validity date and managing the process of familiarizing yourself with changes in documents.",
+  "desc_de": "slp.blue ist ein Werkzeug zur Verwaltung von Labor-Dokumentation und deren natürliche Verknüpfung mit nationalen und lokalen Code-Listen. Es hilft bei der Einhaltung von Akkreditierungsbestimmungen und rationalisiert die Arbeit mit Dokumenten für Qualitätsmanager, Ärzte, Laboranten und Analysten. slp.blue enthält die vollständige Funktionalität des elektronischen Dokumentenmanagements, einschließlich der Verwaltung von Versionen einzelner Dokumente, der Verwaltung des Prüf- und Genehmigungsprozesses neuer Versionen, der Festlegung des Gültigkeitsdatums und der Verwaltung des Prozesses zur Vertrautmachung mit Änderungen in Dokumenten.",
+  "contact_note_cs": "Předvedení nového nástroje slp.blue je plánováno na 10.5.2023 v rámci mimořádného semináře SLP v Praze ve velkém přednáškovém sále IKEM. Zde budou k dispozici další informace i první praktické ukázky. Neváhejte nás ale kdykoli kontaktovat na:",
+  "contact_note_en": "Would you like to use slp.blue in your laboratory? Contact us by e-mail below a to get a customized offer.",
+  "desc_pieces_cs": [
+    "<strong>slp.blue</strong> je oficiální pokračování programu SLP® od firmy SEKK®. Vychází z jeho zkušeností a filozofie funkcí, ale je realizován moderními nástroji s novými možnostmi.",
+    "<strong>slp.blue</strong> je webová aplikace pro správu laboratorní dokumentace i laboratorní příručky s provázáním na aktuální národní i lokální číselníky. Umožňuje řízení dokumentace s ohledem na speciální potřeby laboratoří včetně podpory tvorby prolinkovaných dokumentů, dynamické tvorby laboratorní příručky a reportů v DASTA formátu. Pomáhá s dodržováním akreditačních předpisů a zefektivňuje práci s dokumentací manažerům kvality i ostatním laboratorním pracovníkům.", 
+    "<strong>slp.blue</strong> obsahuje úplnou funkcionalitu elektronického řízení dokumentace včetně řízení verzí jednotlivých dokumentů, řízení procesu kontroly a schvalování nových verzí, nastavení data platnosti a řízení procesu seznamování se se změnami v dokumentech. Umožňuje také tisk dokumentů včetně formálních náležitostí jako je úvodní strana a hlavička a následnou správu jednotlivých výtisků (číslo exempláře, počet, umístění, verze, majitel)."
+  ],
+  "desc_pieces_en": [
+    "slp.blue is a web application for managing laboratory documentation and its natural linking with national and local code lists. It helps with compliance with accreditation regulations and streamlines the work with documents for quality managers, doctors, laboratory technicians and analysts. It allows managing documentation with regard to the special needs of laboratories including support for reference limits, outlines, linking, dynamic creation of laboratory manuals and reporting in DASTA format.",
+    "slp.blue contains the complete functionality of electronic document management including managing versions of individual documents, managing the process of checking and approving new versions, setting the validity date and managing the process of familiarizing yourself with changes in documents. It also allows printing documents including formal requirements such as the cover page and header along with subsequent management of individual copies (copy number, quantity, location, version, owner)."
+  ],
+  "mainScreenshots": [
+    "main.png"
+  ],
+  "points": [
+    {
+      "icon": "history.svg",
+      "title_cs": "Elektronické řízení dokumentace",
+      "title_en": "Electronic document management",
+      "description_cs": "Kompletní správa životního cyklu dokumentů podle platných směrnic včetně tisku.",
+      "description_en": "Complete management of document life cycle according to valid guidelines including printing."
+    },
+    {
+      "icon": "settings.svg",
+      "title_cs": "Správa číselníků",
+      "title_en": "Code list management",
+      "description_cs": "Dokumenty jsou provázány s národními a lokálními číselníky, které lze pomocí nástroje spravovat.",
+      "description_en": "Documents are linked to national and local code lists that can be managed using the tool."
+    },
+    {
+      "icon": "integration.png",
+      "title_cs": "Dynamická tvorba laboratorní příručky",
+      "title_en": "Dynamic creation of laboratory manual",
+      "description_cs": "Interní i veřejná příručka se vytváří automaticky z vybraných dokumentů do přizpůsobitelné šablony.",
+      "description_en": "Internal and public manual is created automatically from selected documents into a customizable template."
+    },
+    {
+      "icon": "web.png",
+      "title_cs": "Přístupný z webového prohlížeče",
+      "title_en": "Accessible from web browser",
+      "description_cs": "Všechny funkcionality jsou dostupné z jakéhokoliv zařízení s webovým prohlížečem bez nutnosti instalace dalšího software.", 
+      "description_en": "All functionalities are available from any device with a web browser."
+    }
+  ]
+}

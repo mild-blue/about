@@ -1,9 +1,9 @@
 {
   "name_cs": "TX Matching",
   "name_en": "TX Matching",
-  "subtitle_cs": "Nástroj pro optimalizaci a správu párové výměny ledvin.",
+  "subtitle_cs": "Nástroj pro optimalizaci a správu párové výměny ledvin",
   "name_de": "TX Matching",
-  "subtitle_en": "Kidney Paired Donation optimization and management tool.",
+  "subtitle_en": "Kidney Paired Donation optimization and management tool",
   "subtitle_de": "Matching-Tool für Lebendspenden von Nieren",
   "website": "https://txmatching.mild.blue",
   "demo": "https://txm.demo.mild.blue",
@@ -14,6 +14,8 @@
   "desc_cs": "Jádrem projektu je algoritmus, který z množiny několika desítek dvojic nekompatibilních dárců a příjemců ledvin dokáže vybrat optimální kombinaci transplantací zajišťující nejlepší možný výsledek ve smyslu délky a kvality života pacientů. Projekt je produkčně používán v IKEMu v rámci mezinárodního programu výměny ledvin mezi Českou republikou, Izraelem a Rakouskem.",
   "desc_en": "The core of the tool is an algorithm that finds the optimal set of transplantations among multiple incompatible donor-recipient pairs. The optimization is performed with respect to the graft survival potential but also to the total life expectancy and quality of life of each recipient. The tool is in production use by the Institute for Clinical and Experimental Medicine in Prague in an international program that manages kidney exchanges between the Czech Republic, Austria and Israel.",
   "desc_de": "Der Kern dieses Tools ist ein Algorithmus, der die optimale Kombination von Transplantationen unter mehreren inkompatiblen Spender-Empfänger-Paaren findet. Die Optimierung berücksichtigt das Überlebenspotenzial des Transplantats, aber auch die erwartete Gesamtlebensdauer und -qualität jedes Empfängers. Das Tool wird vom Institut für klinische und experimentelle Medizin in Prag in einem internationalen Programm zur Verwaltung des Nierenaustauschs zwischen der Tschechischen Republik, Österreich und Israel benutzt.",
+  "desc_short_cs": "Webová služba, která najde optimální sadu transplantací mezi více nekompatibilními páry dárce-příjemce. Nástroj je produkčně využíván v mezinárodním programu, který řídí výměny ledvin mezi Českem, Rakouskem a Izraelem.",
+  "desc_short_en": "A web service that finds the optimal set of transplantations among multiple incompatible donor-recipient pairs. The tool is in production use in an international program that manages kidney exchanges between Czechia, Austria and Israel.",
   "desc_pieces_cs": [
     "Párová výměna ledvin je způsob, jak zvýšit počet možných transplantací ledvin a zvýšit tím délku a kvalitu života pacientů s chronickým onemocněním ledvin. V párové výměně dárce daruje ledvinu jinému příjemci a na oplátku získá kompatibilní ledvinu pro svého rodinného příslušníka nebo blízkého přítele.",
     "TX Matching je nástroj, který umožňuje párovou výměnu zorganizovat a najít v ní optimální kombinaci dárců a příjemců. Pro správu párové výměny nabízí pohodlnou kontrolu uživatelského přístupu, automatické vkládání anonymizovaných pacentských dat přes API rozhraní a možnost reportingu. Optimalizační algoritmus dokáže pracovat s celou řadou nastavitelných parametrů a díky tomu umožňuje maximální flexibilitu při hledání těch nejvhodnějších dárců.",
@@ -34,7 +36,7 @@
       "icon": "ai.svg",
       "title_cs": "Nejmodernější optimalizační algoritmy",
       "title_en": "State-of-the-art optimisation algorithms",
-      "description_cs": "Chytrý algoritmus dokáže nabídnout více variant transplantačních sad s největší šancí na úspěch.",
+      "description_cs": "Chytrý algoritmus dokáže nabídnout více variant transplantačních sad s největší šancí na úspěch.",
       "description_en": "Smart algorithm offers multiple transplantation options maximizing the probability of success."
     },
     {
