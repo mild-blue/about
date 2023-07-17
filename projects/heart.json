@@ -9,16 +9,16 @@
   "email": "heart@mild.blue",
   "youtubeId": [
     {
-      "id": "mKAh68AjxSc"
+      "id": "mKAh68AjxSc",
+      "title": "video 1"
     },
     {
-      "id": "mKAh68AjxSc"
+      "id": "mKAh68AjxSc",
+      "title": "video 2"
     },
     {
-      "id": "mKAh68AjxSc"
-    },
-    {
-      "id": "mKAh68AjxSc"
+      "id": "mKAh68AjxSc",
+      "title": "video 3"
     }
   ],
   "ga": "G-DZYW2EBC5E",
