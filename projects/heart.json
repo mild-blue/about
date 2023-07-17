@@ -8,8 +8,12 @@
   "website": "https://heart.mild.blue",
   "email": "heart@mild.blue",
   "youtubeId": [
-    "mKAh68AjxSc",
-    "mKAh68AjxSc"
+    {
+      "id": "mKAh68AjxSc"
+    },
+    {
+      "id": "mKAh68AjxSc"
+    }
   ],
   "ga": "G-DZYW2EBC5E",
   "pixel": "710909070202977",
