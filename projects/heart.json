@@ -7,7 +7,10 @@
   "subtitle_de": "Messen, bewerten und teilen Sie den von einer Smartphone-Kamera erfassten Herzschlag",
   "website": "https://heart.mild.blue",
   "email": "heart@mild.blue",
-  "youtubeId": "mKAh68AjxSc",
+  "youtubeId": [
+    "mKAh68AjxSc",
+    "mKAh68AjxSc"
+  ],
   "ga": "G-DZYW2EBC5E",
   "pixel": "710909070202977",
   "facebook_domain_verification": "b45ejk3thpbcjrxn5wmtf0wta9ugjm",
