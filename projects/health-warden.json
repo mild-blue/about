@@ -6,7 +6,21 @@
   "subtitle_en": "Remote patient care adaptable to life",
   "subtitle_de": "Fernpatientenpflege anpassbar an das Leben",
   "website": "https://warden.health",
-  "email": "healthwarden@mild.blue",
+  "email": "healthwarden@mild.blue",  
+  "youtubeId": [
+    {
+      "id": "eEVN8k-Fr2k",
+      "title": "HealthWarden přehled funkcionalit"
+    },
+    {
+      "id": "UjLrMgHrB8M",
+      "title": "HealthWarden Nastavení péče ve webové aplikaci"
+    },
+    {
+      "id": "WGGi1iFA9jE",
+      "title": "HealthWarden Bližší pohled na mobilní aplikaci"
+    }
+  ],
   "ga": "G-1QCP958XBT",
   "pixel": "444216783736947",
   "facebook_domain_verification": "eguerx2a8937xp4axtet3k6fhwyn05",
