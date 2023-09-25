@@ -47,7 +47,7 @@
   "featureScreenshot": "",
   "points": [
     {
-      "icon": "elderly.png",
+      "icon": "elderly.svg",
       "title_cs": "Pro pacienty: větší komfort, důvera a spokojenost s péčí",
       "title_en": "For patients: greater comfort, trust and satisfaction with provided care",
       "description_cs": "Pacienti získají personalizovanou pozornost, dobrou informovanost a můžou sledovat vlastní pokrok.",
@@ -61,7 +61,7 @@
       "description_en": "Clear and accurate summary of the course of the treatment to date for the entire cohort of patients with adjustable alerts."
     },
     {
-      "icon": "hospital.png",
+      "icon": "hospital.svg",
       "title_cs": "Pro nemocnice: efektivnější využití prostředků",
       "title_en": "For hospitals: more efficient use of resources",
       "description_cs": "Kvalitní vzdálená péče umožní zkrácení hospitalizace, prevenci rehospitalizací a automatizaci follow-up procesů.",
