@@ -37,7 +37,7 @@
     },
     {
       "icon": "voice-recognition.svg",
-      "title_cs": "Rozpoznávání řečiiiii",
+      "title_cs": "Rozpoznávání řeči",
       "title_en": "Speech Recognition",
       "description_cs": "DataVID využívá špičkové algoritmy pro rozpoznávání řeči pro převod řeči na text, snadno porozumí tomu, co se říká, a okamžitě to zapíše. Je to pravá ruka lékařů, vždy tam, vždy připravená.",
       "description_en": "DataVID uses top speech recognition algorithms for speech to text conversion, can easily understand what is said and immediately writes it down. It is doctors‘ rights hand, always there, always ready."
