@@ -48,14 +48,14 @@
       "description_en": "Documents are linked to national and local code lists that can be managed using the tool."
     },
     {
-      "icon": "integration.png",
+      "icon": "integration-paper.svg",
       "title_cs": "Dynamická tvorba laboratorní příručky",
       "title_en": "Dynamic creation of laboratory manual",
       "description_cs": "Laboratorní příručka se tvoří automaticky z aktuálních dat do přizpůsobitelné šablony. Výhodou je okamžitá aktualizace, rychlá dostupnost a jednoduše prohledávatelný seznam laboratorních vyšetření pro uživatele laboratorních služeb.",
       "description_en": "The laboratory manual is automatically created from current data into a customizable template. The advantage is immediate update, fast availability and easily searchable list of laboratory tests for users of laboratory services."
     },
     {
-      "icon": "web.png",
+      "icon": "web.svg",
       "title_cs": "Přístupný z webového prohlížeče",
       "title_en": "Accessible from web browser",
       "description_cs": "Všechny funkcionality jsou dostupné z jakéhokoliv zařízení s webovým prohlížečem bez nutnosti instalace dalšího software. Aplikace splňuje nejmodernější standardy kybernetické bezpečnosti a zabezpečení dat.", 
