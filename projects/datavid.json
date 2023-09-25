@@ -43,14 +43,14 @@
       "description_en": "DataVID uses top speech recognition algorithms for speech to text conversion, can easily understand what is said and immediately writes it down. It is doctors‘ rights hand, always there, always ready."
     },
     {
-      "icon": "no-papers.png",
+      "icon": "no-papers.svg",
       "title_cs": "Administrativní úleva",
       "title_en": "Administrative release",
       "description_cs": "DataVID je tu, aby sloužil vám všem, vážení lékaři! Uvolní vás z otravného vyplňování zpráv. Jen mluvte, vše bude zapsáno, jako byste to udělali vy. Váš čas a tvrdá práce můžete využít tam, kde je to nejvíce potřeba.",
       "description_en": "DataVID is there to serve all of you, dear doctors! It will release you form annoying reports filling. Just speak, everything will be written down like you would do it. Your time and hard work can be used where it is needed the most."
     },
     {
-      "icon": "doctor-programmer.png",
+      "icon": "doctor-programmer.svg",
       "title_cs": "Lékaři a vývojáři",
       "title_en": "Doctors & Developers",
       "description_cs": "Jsme v tom spolu, všichni. Jsme chytří a taková by měla být i naše spolupráce. Pamatujte, že společně s našimi mozky, laskavostí a chytrými nástroji vyhrajeme.",
