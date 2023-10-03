@@ -64,3 +64,8 @@ Attribute | Type | Possible values                                          | De
 `showSubtitle` | `boolean` | `true` &#124; `false`                                    | Defines whether to display submotto (small text next to the logo on the right side of the onepager)
 `showCoFounderLabel` | `boolean` | `true` &#124; `false`                                    | Defines whether to display "co-founder" title under co-founders' names.
 `footerLinkType` | `string` | `"email"` &#124; `"web"`                                 | If value is set to `email` a link to company e-mail will be shown. If value is set to `web`, link to [mild.blue](https://mild.blue/) web will be shown. Every link type has its corresponding label.
+
+
+# Development
+
+When creating a PR you can check how the website will look like with your PR by going to https://mild-blue.pages.dev/?source=branch where instead of "branch" fill in the name of your branch.
