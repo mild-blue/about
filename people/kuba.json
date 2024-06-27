@@ -1,12 +1,12 @@
 {
   "key": "kuba",
-  "name": "Bc. Jakub Monhart",
+  "name": "Ing. Jakub Monhart",
   "nick": "Jakub",
   "email": "jakub.monhart@mild.blue",
   "title_cs": "Junior backend vývojář",
   "title_en": "Junior backend developer",
   "title_de": "Junior Backend-Entwickler",
-  "short_desc_en": "Jakub is finishing his studies in the field of Artificial Intelligence at FEE CTU in Prague, where he focuses mainly on machine learning. At Mild Blue, he found an opportunity to use the knowledge from his studies to work on meaningful projects.",
-  "short_desc_de": "Jakub beendet gerade sein Studium im Bereich der Künstlichen Intelligenz an der FEE CTU in Prag, wo er sich hauptsächlich auf Maschinelles Lernen konzentriert. Bei Mild Blue fand er die Möglichkeit, das Wissen aus seinem Studium in sinnvolle Projekte einzubringen.",
-  "short_desc_cs": "Jakub dokončuje studium oboru Umělá inteligence na FEL ČVUT, kde se zaměřuje především na strojové učení. V Mild Blue našel možnost využít své znalosti ze studia při práci na smysluplných projektech."
+  "short_desc_en": "Jakub holds a master's in artificial intelligence from FEE CTU in Prague. During his studies, he focused mainly on machine learning techniques, ranging from computer vision to natural language processing. At Mild Blue, he found an opportunity to use the knowledge from his studies to work on meaningful projects.",
+  "short_desc_de": "Jakub hat einen Master in Künstlicher Intelligenz von der FEE CTU in Prag. Während seines Studiums konzentrierte er sich hauptsächlich auf Techniken des maschinellen Lernens, die von Computer Vision bis zur Verarbeitung natürlicher Sprache reichen. Bei Mild Blue fand er die Möglichkeit, das Wissen aus seinem Studium für die Arbeit an sinnvollen Projekten zu nutzen.",
+  "short_desc_cs": "Jakub má vystudovaný obor Umělá inteligence na FEL ČVUT. Během studia se věnoval především různým technikám strojového učení, od počítačového vidění až po zpracovávání přirozeného jazyka. V Mild Blue našel možnost využít své znalosti při práci na smysluplných projektech."
 }
