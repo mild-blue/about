@@ -1,11 +1,11 @@
 {
   "key": "petra",
-  "name": "Bc. Petra Čurdová",
+  "name": "Ing. Petra Čurdová",
   "nick": "Petra",
   "email": "petra.curdova@mild.blue",
-  "title_cs": "Backend vývojářka",
-  "title_en": "Backend developer",
-  "title_de": "Backend-Entwicklerin",
-  "short_desc_en": "Petra is currently studying for a Master's degree in knowledge engineering at CTU. She already has couple years experience with backend development and is focusing on this area in Mild Blue as well.",
-  "short_desc_cs": "Petra studuje znalostní inženýrství na ČVUT. V Mild Blue se nadále věnuje problematice, se kterou má již několikaleté zkušenosti - vývoji backendu našich aplikací."
+  "title_cs": "Full-stack vývojářka",
+  "title_en": "Full-stack developer",
+  "title_de": "Full-stack-Entwicklerin",
+  "short_desc_en": "Petra graduated in Knowledge Engineering from CTU. At Mild Blue, she focuses on machine learning and develops both the backend and frontend of our applications.",
+  "short_desc_cs": "Petra vystudovala znalostní inženýrství na ČVUT. V Mild Blue se nadále věnuje oblasti strojového učení a zároveň vyvíjí backend i frontend našich aplikací."
 }
