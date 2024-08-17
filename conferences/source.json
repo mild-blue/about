@@ -1,0 +1,76 @@
+{
+    "conferences": [
+        {
+            "title_cs": "Konference AGELLAB v Olomouci",
+            "title_en": "AGELLAB conference in Olomouc",
+            "title_de": "AGELLAB Konferenz in Olomouc",
+            "short_description_cs": "Kongres AGELLAB je odborná konference věnovaná inovacím v laboratorní medicíně a zdravotnictví. Cílem dvoudenního programu je sdílení nejnovějších technologií a řešení pro zlepšení diagnostiky a léčby pacientů. ",
+            "short_description_en": "The AGELLAB Congress is a professional conference dedicated to innovations in laboratory medicine and healthcare. The aim of the two-day program is to share the latest technologies and solutions to improve the diagnosis and treatment of patients. ",
+            "short_description_de": "Der AGELLAB-Kongress ist eine Fachkonferenz, die sich mit Innovationen in der Labormedizin und im Gesundheitswesen befasst. Ziel des zweitägigen Programms ist der Austausch über die neuesten Technologien und Lösungen zur Verbesserung der Diagnose und Behandlung von Patienten. ",
+            "details_cs": "Tým Mild Blue a její CEO Tomáš Kouřim připravili prezentaci o umělé inteligenci. Během přednášky byly diskutovány otázky, co je to umělá inteligence, kdo ji používá a jaká rizika může způsobit neustálé používání tohoto nástroje. Zazněl také zajímavý návrh týkající se AI. „Umělá inteligence je hrozba, protože bude dělat to, co jí řekneme, nikoliv to, co chceme.\"",
+            "details_en": "The Mild Blue team and its CEO Tomáš Kouřim gave a presentation on artificial intelligence. During the lecture, the questions of what is artificial intelligence, who uses it and what risks can be caused by the constant use of this tool were discussed. There was also an interesting proposal regarding AI. \"Artificial intelligence is a threat because it will do what we tell it, not what we want.\" ",
+            "details_de": "Das Team von Mild Blue und sein CEO Tomáš Kouřim bereiteten eine Präsentation über künstliche Intelligenz vor. Während des Vortrags wurden die Fragen erörtert, was künstliche Intelligenz ist, wer sie einsetzt und welche Risiken der ständige Einsatz dieses Instruments mit sich bringen kann. Es gab auch einen interessanten Vorschlag zum Thema KI. „Künstliche Intelligenz ist eine Bedrohung, weil sie tut, was wir ihr sagen, und nicht, was wir wollen“.",
+            "img": "agellab_conference.jpg"
+        },
+        {
+            "title_cs": "Školení správců LIS a lokálních číselníků v Praze",
+            "title_en": "Training of LIS and local codebook administrators in Prague",
+            "title_de": "Schulung von LIS- und lokalen Dialer-Administratoren in Prag",
+            "short_description_cs": "První školení pro správce lokálních číselníků od NASKL.cz. Cílem bylo zlepšit kvalitu elektronického přenosu laboratorních dat mezi informačními systémy ve zdravotnictví.",
+            "short_description_en": "First training for local dialer administrators from NASKL.cz. The aim was to improve the quality of laboratory data transfer between information systems in healthcare.",
+            "short_description_de": "Erste Schulung für lokale Dialer-Administratoren von NASKL.cz. Ziel war es, die Qualität der Übertragung von Labordaten zwischen Informationssystemen im Gesundheitswesen zu verbessern.",
+            "details_cs": "Během školení zaměstnanci Mild Blue vyslechli několik přednášek a zúčastnili se diskusí o systémové podpoře, předcházení chybám a přímé práci se specializovaným softwarem. CEO Tomáš Kouřim také přednášel na téma údržby LČLP v prostředí systému slp.blue.",
+            "details_en": "During the training, Mild Blue employees listened to several lectures and participated in discussions about system support, error prevention and working directly with specialized software. CEO Tomáš Kouřim also gave a lecture on the topic of maintenance of LČLP in the slp.blue environment.",
+            "details_de": "Während der Schulung hörten die Mitarbeiter von Mild Blue mehrere Vorträge und nahmen an Diskussionen über Systemunterstützung, Fehlervermeidung und die direkte Arbeit mit spezialisierter Software teil. CEO Tomáš Kouřim hielt auch einen Vortrag zum Thema Wartung von LČLP in der slp.blue-Umgebung. ",
+            "img": "administrator_training.jpg"
+        },
+        {
+            "title_cs": "Osmá Praktická konference pro praktické lékaře v Brně",
+            "title_en": "Eighth Practical Conference for General Practitioners in Brno",
+            "title_de": "Achte Praxiskonferenz für Allgemeinmediziner in Brno",
+            "short_description_cs": "Konference zaměřená na podporu a vzdělávání praktických lékařů. Cílem je poskytnout aktuální informace, sdílet osvědčené postupy a diskutovat o problémech, kterým praktičtí lékaři čelí ve své každodenní praxi.",
+            "short_description_en": "A conference aimed at supporting and educating general practitioners. The aim is to provide up-to-date information, share best practice and discuss the challenges GPs face in their daily practice.",
+            "short_description_de": "Eine Konferenz zur Unterstützung und Fortbildung von Allgemeinmedizinern. Ziel ist es, aktuelle Informationen bereitzustellen, bewährte Verfahren auszutauschen und die Herausforderungen zu erörtern, mit denen Hausärzte in ihrer täglichen Praxis konfrontiert sind.",
+            "details_cs": "Tým Mild Blue připravil přednášku na téma: Jak využít umělou inteligenci v primární zdravotní péči? Díky ní se lékaři dozvěděli, zda by se umělá inteligence měla v medicíně používat, jaké výhody nebo naopak jaká rizika tento nástroj přinese a kde přesně může pomoci.",
+            "details_en": "The Mild Blue team prepared a lecture on the topic: How to use artificial intelligence in primary health care? Thanks to this lecture, doctors learned whether artificial intelligence should be used in medicine, what benefits or risks this tool will bring and where exactly it can help.",
+            "details_de": "Das Mild Blue-Team hat einen Vortrag zum Thema vorbereitet: Wie kann künstliche Intelligenz in der medizinischen Grundversorgung eingesetzt werden? Dank dieses Vortrags erfuhren die Ärzte, ob künstliche Intelligenz in der Medizin eingesetzt werden sollte, welche Vorteile oder Risiken dieses Instrument mit sich bringt und wo genau es helfen kann.",
+            "img": "practical_conference.jpg"
+        },
+        {
+            "title_cs": "BIOLAB 2024 v Brně",
+            "title_en": "BIOLAB 2024 in Brno",
+            "title_de": "BIOLAB 2024 in Brno",
+            "short_description_cs": "BIOLAB je celostátní sjezd biochemických laborantů, který zaměřený na biologické a laboratorní vědy. Cílem konference je podpořit spolupráci mezi akademickou a technologickou sférou a urychlit tak pokrok v oblastech, jako je molekulární biologie, genetika, biochemie a laboratorní medicína.",
+            "short_description_en": "BIOLAB is a national congress of biochemical laboratory technicians that focuses on biological and laboratory sciences. The aim of the conference is to promote collaboration between academia and technology to accelerate progress in areas such as molecular biology, genetics, biochemistry and laboratory medicine.",
+            "short_description_de": "BIOLAB ist ein nationaler Kongress für Biochemielaboranten, der sich auf biologische und Laborwissenschaften konzentriert. Ziel der Konferenz ist es, die Zusammenarbeit zwischen Wissenschaft und Technik zu fördern, um den Fortschritt in Bereichen wie Molekularbiologie, Genetik, Biochemie und Labormedizin zu beschleunigen. ",
+            "details_cs": "Zaměstnanci společnosti Mild Blue se akce zúčastnili jako účastníci, navštěvovali přednášky, účastnili se panelových diskusí a získávali stále hlubší znalosti, které mohli uplatnit ve svých projektech.",
+            "details_en": "Mild Blue employees attended the event as participants, attending lectures, participating in panel discussions and gaining deeper knowledge to apply to their projects.",
+            "details_de": "Die Mitarbeiter von Mild Blue besuchten die Veranstaltung als Teilnehmer, hörten Vorträge, nahmen an Podiumsdiskussionen teil und vertieften ihr Wissen, um es in ihren Projekten anzuwenden.",
+            "img": "biolab.jpg"
+        },
+        {
+            "title_cs": "40. Mezikrajské dny klinické biochemie na zámku Blatná",
+            "title_en": "40. Interregional Days of Clinical Biochemistry at the Blatná Chateau",
+            "title_de": "40. Interregionale Tage der klinischen Biochemie auf Schloss Blatná",
+            "short_description_cs": "Mezikrajské dny klinické biochemie jsou odborná setkání zaměřená na klinickou biochemii. Cílem těchto dnů je podpořit profesionalitu a zlepšit kvalitu zdravotní péče prostřednictvím vzdělávání a networkingu mezi specialisty v oboru.",
+            "short_description_en": "Interregional Days of Clinical Biochemistry are professional gatherings focused on clinical biochemistry. The aim of these days is to promote professionalism and improve the quality of healthcare through education and networking among specialists in the field.",
+            "short_description_de": "Die Interregionale Tage der klinischen Biochemie sind Fachtagungen, die sich mit der klinischen Biochemie befassen. Ziel dieser Tage ist es, die Professionalität zu fördern und die Qualität der Gesundheitsversorgung durch Bildung und Vernetzung von Fachleuten auf diesem Gebiet zu verbessern.",
+            "details_cs": "Společnost Mild Blue se s hrdostí zúčastnila této akce, kde představila nové nástroje moderního systému pro správu laboratorní dokumentace slp.blue. Během události zaujala návštěvníky svým informačním stánkem, který přitahoval pozornost a poskytoval podrobné informace o jejich inovativních řešení.",
+            "details_en": "Mild Blue was proud to attend this event to introduce the new tools of slp.blue, a modern laboratory documentation management system. During the event, they captivated visitors with their attention-grabbing information booth that provided detailed information about their innovative solutions.",
+            "details_de": "Mild Blue war stolz darauf, an dieser Veranstaltung teilzunehmen und die neuen Tools von slp.blue, einem modernen Labordokumentationsmanagementsystem, vorzustellen. Während der Veranstaltung fesselten sie die Besucher mit ihrem aufmerksamkeitsstarken Informationsstand, der detaillierte Informationen über ihre innovativen Lösungen lieferte.",
+            "img": "biochemistry_days.jpg"
+        },
+        {
+            "title_cs": "44. Imunoanalytické dny Plzeň",
+            "title_en": "44th Immunoanalytical Days Plzeň",
+            "title_de": "44. Immunoanalytische Tage Pilsen",
+            "short_description_cs": "Imunoanalytické dny Plzeň jsou odborná konference zaměřená na oblast imunoanalytiky, což je obor, který se zabývá analytickými metodami využívajícími imunologické principy. Cílem konference je podpořit rozvoj a aplikaci imunoanalytických metod.",
+            "short_description_en": "Immunoanalytical Days Plzeň is a professional conference focused on the field of immunoanalytics, which is a field that deals with analytical methods using immunological principles. The aim of the conference is to promote the development and application of immunoanalytical methods..",
+            "short_description_de": "Die Immunoanalytischen Tage Pilsen sind eine Fachkonferenz, die sich mit dem Bereich der Immunoanalytik befasst, d.h. mit Analysemethoden, die immunologische Prinzipien nutzen. Ziel der Konferenz ist es, die Entwicklung und Anwendung von immunanalytischen Methoden zu fördern.",
+            "details_cs": "Účast společnosti Mild Blue na akci 44. Imunoanalytické dny byla součástí přednášky na téma Dynamická laboratorní příručka, kterou přednesla naše kolegyně designérka a vývojářka Anastasia Surikova. Během přednášky se probírala problematika co nejpohodlnější vytváření návodů, stanovení hierarchie dokumentů a další.",
+            "details_en": "Mild Blue's participation in the 44. Immunoanalytical Days was part of the lecture on Dynamic Laboratory Manual, which was presented by our colleague, designer and developer Anastasia Surikova. During the lecture, the issues of creating manuals as convenient as possible, establishing document hierarchy and more were discussed.",
+            "details_de": "Die Teilnahme von Mild Blue an der Veranstaltung 44. Immunoanalytical Tage war Teil des Vortrags „ Dynamisches Laborhandbuch“, der von unserer Kollegin, Designerin und Entwicklerin Anastasia Surikova gehalten wurde. Während des Vortrags wurden die Themen, wie man Handbücher so bequem wie möglich gestalten kann, wie man eine Dokumentenhierarchie aufbaut und vieles mehr diskutiert..",
+            "img": "administrator_training.jpg"
+        }
+    ]
+}
