@@ -1,12 +1,16 @@
 {
-    "title_cs": "BIOLAB 2024 v Brně",
-    "title_en": "BIOLAB 2024 in Brno",
-    "title_de": "BIOLAB 2024 in Brno",
+    "title_cs": "BIOLAB 2024",
+    "title_en": "BIOLAB 2024",
+    "title_de": "BIOLAB 2024",
     "short_description_cs": "BIOLAB je celostátní sjezd biochemických laborantů, který zaměřený na biologické a laboratorní vědy. Cílem konference je podpořit spolupráci mezi akademickou a technologickou sférou a urychlit tak pokrok v oblastech, jako je molekulární biologie, genetika, biochemie a laboratorní medicína.",
     "short_description_en": "BIOLAB is a national congress of biochemical laboratory technicians that focuses on biological and laboratory sciences. The aim of the conference is to promote collaboration between academia and technology to accelerate progress in areas such as molecular biology, genetics, biochemistry and laboratory medicine.",
     "short_description_de": "BIOLAB ist ein nationaler Kongress für Biochemielaboranten, der sich auf biologische und Laborwissenschaften konzentriert. Ziel der Konferenz ist es, die Zusammenarbeit zwischen Wissenschaft und Technik zu fördern, um den Fortschritt in Bereichen wie Molekularbiologie, Genetik, Biochemie und Labormedizin zu beschleunigen. ",
     "details_cs": "Zaměstnanci společnosti Mild Blue se akce zúčastnili jako účastníci, navštěvovali přednášky, účastnili se panelových diskusí a získávali stále hlubší znalosti, které mohli uplatnit ve svých projektech.",
     "details_en": "Mild Blue employees attended the event as participants, attending lectures, participating in panel discussions and gaining deeper knowledge to apply to their projects.",
     "details_de": "Die Mitarbeiter von Mild Blue besuchten die Veranstaltung als Teilnehmer, hörten Vorträge, nahmen an Podiumsdiskussionen teil und vertieften ihr Wissen, um es in ihren Projekten anzuwenden.",
-    "img": "biolab_2024.jpg"
+    "img": "biolab_2024.jpg",
+    "place": "Brno",
+    "date_cs": "28.-30. dubna 2024",
+    "date_en": "28-30 April 2024",
+    "date_de": "28.-30. April 2024"
 }

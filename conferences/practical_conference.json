@@ -1,12 +1,16 @@
 {
-    "title_cs": "Osmá Praktická konference pro praktické lékaře v Brně",
-    "title_en": "Eighth Practical Conference for General Practitioners in Brno",
-    "title_de": "Achte Praxiskonferenz für Allgemeinmediziner in Brno",
+    "title_cs": "8. Praktická konference pro praktické lékaře",
+    "title_en": "8th Practical Conference for General Practitioners",
+    "title_de": "8. Praxiskonferenz für Allgemeinmediziner",
     "short_description_cs": "Konference zaměřená na podporu a vzdělávání praktických lékařů. Cílem je poskytnout aktuální informace, sdílet osvědčené postupy a diskutovat o problémech, kterým praktičtí lékaři čelí ve své každodenní praxi.",
     "short_description_en": "A conference aimed at supporting and educating general practitioners. The aim is to provide up-to-date information, share best practice and discuss the challenges GPs face in their daily practice.",
     "short_description_de": "Eine Konferenz zur Unterstützung und Fortbildung von Allgemeinmedizinern. Ziel ist es, aktuelle Informationen bereitzustellen, bewährte Verfahren auszutauschen und die Herausforderungen zu erörtern, mit denen Hausärzte in ihrer täglichen Praxis konfrontiert sind.",
     "details_cs": "Tým Mild Blue připravil přednášku na téma: Jak využít umělou inteligenci v primární zdravotní péči? Díky ní se lékaři dozvěděli, zda by se umělá inteligence měla v medicíně používat, jaké výhody nebo naopak jaká rizika tento nástroj přinese a kde přesně může pomoci.",
     "details_en": "The Mild Blue team prepared a lecture on the topic: How to use artificial intelligence in primary health care? Thanks to this lecture, doctors learned whether artificial intelligence should be used in medicine, what benefits or risks this tool will bring and where exactly it can help.",
     "details_de": "Das Mild Blue-Team hat einen Vortrag zum Thema vorbereitet: Wie kann künstliche Intelligenz in der medizinischen Grundversorgung eingesetzt werden? Dank dieses Vortrags erfuhren die Ärzte, ob künstliche Intelligenz in der Medizin eingesetzt werden sollte, welche Vorteile oder Risiken dieses Instrument mit sich bringt und wo genau es helfen kann.",
-    "img": "practical_conference.jpg"
+    "img": "practical_conference.jpg",
+    "place": "Brno",
+    "date_cs": "26.-28. dubna 2024",
+    "date_en": "26-28 April 2024",
+    "date_de": "26.-28. April 2024"
 }
