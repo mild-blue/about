@@ -1,0 +1,53 @@
+{
+  "organisations": [
+    {
+      "id": "ikem",
+      "name": "IKEM",
+      "loginType": "seacat",
+      "config": {
+        "doctorAdminUrl": "https://health-warden.ikem.cz",
+        "apiUrl": "https://seacat3.ikem.seacat.io/health-warden",
+        "seaCatConfig": {
+          "authUrl": "https://seacat3.ikem.seacat.io/tempra/api-sc3-auth-server/public/v1",
+          "certificateUrl": "https://seacat3.ikem.seacat.io/seacat"
+        }
+      }
+    },
+    {
+      "id": "artak",
+      "name": "ARTAK - aktivizace",
+      "loginType": "default",
+      "config": {
+        "doctorAdminUrl": "https://health-warden.artak.mild.blue",
+        "apiUrl": "https://health-warden.artak.mild.blue"
+      }
+    },
+    {
+      "id": "nefrologie-rakovnik",
+      "name": "Nefrologická ambulance Rakovník",
+      "loginType": "default",
+      "config": {
+        "doctorAdminUrl": "https://health-warden.nefrologie-rakovnik.mild.blue",
+        "apiUrl": "https://health-warden.nefrologie-rakovnik.mild.blue"
+      }
+    },
+    {
+      "id": "demo",
+      "name": "Demo",
+      "loginType": "default",
+      "config": {
+        "doctorAdminUrl": "https://health-warden.demo.mild.blue",
+        "apiUrl": "https://health-warden.demo.mild.blue"
+      }
+    },
+    {
+      "id": "stg",
+      "name": "Mild Blue",
+      "loginType": "default",
+      "config": {
+        "doctorAdminUrl": "https://health-warden.stg.mild.blue",
+        "apiUrl": "https://health-warden.stg.mild.blue"
+      }
+    }
+  ]
+}
