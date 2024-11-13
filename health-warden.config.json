@@ -46,7 +46,7 @@
       "loginType": "default",
       "config": {
         "doctorAdminUrl": "https://health-warden.artak.mild.blue",
-        "apiUrl": "https://health-warden.artak.mild.blue"
+        "apiUrl": "https://artak.warden.health"
       }
     },
     {
@@ -55,7 +55,7 @@
       "loginType": "default",
       "config": {
         "doctorAdminUrl": "https://health-warden.demo.mild.blue",
-        "apiUrl": "https://health-warden.demo.mild.blue"
+        "apiUrl": "https://demo.warden.health"
       }
     },
     {
@@ -64,7 +64,7 @@
       "loginType": "default",
       "config": {
         "doctorAdminUrl": "https://health-warden.stg.mild.blue",
-        "apiUrl": "https://health-warden.stg.mild.blue"
+        "apiUrl": "https://stg.warden.health"
       }
     }
   ]
