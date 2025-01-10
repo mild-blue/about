@@ -45,7 +45,7 @@
       "name": "ARTAK - aktivizace",
       "loginType": "default",
       "config": {
-        "doctorAdminUrl": "https://health-warden.artak.mild.blue",
+        "doctorAdminUrl": "https://artak.warden.health",
         "apiUrl": "https://artak.warden.health"
       }
     },
@@ -54,7 +54,7 @@
       "name": "Demo",
       "loginType": "default",
       "config": {
-        "doctorAdminUrl": "https://health-warden.demo.mild.blue",
+        "doctorAdminUrl": "https://demo.warden.health",
         "apiUrl": "https://demo.warden.health"
       }
     },
@@ -63,7 +63,7 @@
       "name": "Mild Blue",
       "loginType": "default",
       "config": {
-        "doctorAdminUrl": "https://health-warden.stg.mild.blue",
+        "doctorAdminUrl": "https://stg.warden.health",
         "apiUrl": "https://stg.warden.health"
       }
     }
