@@ -1,0 +1,130 @@
+[
+    {
+        "photo": "agel.png",
+        "name": "Agel"
+    },
+    {
+        "photo": "npk.jpg",
+        "name": "Nemocnice Pardubického kraje"
+    },
+    {
+        "photo": "plasma-place.png",
+        "name": "Plasma Place"
+    },
+    {
+        "photo": "bulovka.png",
+        "name": "Fakultní nemocnice Bulovka"
+    },
+    {
+        "photo": "dvur_kralove.png",
+        "name": "Městská nemocnice Dvůr Králové"
+    },
+    {
+        "photo": "frydek-mistek.png",
+        "name": "Nemocnice ve Frýdku-Místku"
+    },
+    {
+        "photo": "havirov.png",
+        "name": "Nemocnice Havířov"
+    },
+    {
+        "photo": "horice.png",
+        "name": "Levitovo centrum následné péče Hořice"
+    },
+    {
+        "photo": "cheb.svg",
+        "name": "Nemocnice Cheb"
+    },
+    {
+        "photo": "ikem.png",
+        "name": "Institut klinické a experimentální medicíny"
+    },
+    {
+        "photo": "jicin.jpg",
+        "name": "Oblastní nemocnice Jičín"
+    },
+    {
+        "photo": "jihlava.png",
+        "name": "Nemocnince Jihlava"
+    },
+    {
+        "photo": "jindrichuv-hradec.png",
+        "name": "Nemocnice Jindřichův Hradec"
+    },
+    {
+        "photo": "karlovy_vary.jpg",
+        "name": "Karlovarská krajská nemocnice"
+    },
+    {
+        "photo": "karvina_raj.png",
+        "name": "Nemocnice Karviná-Ráj"
+    },
+    {
+        "photo": "kladno.jpg",
+        "name": "Oblastní nemocnice Kladno"
+    },
+    {
+        "photo": "krevni-centrum.png",
+        "name": "Krevní centrum"
+    },
+    {
+        "photo": "fnkv.jpg",
+        "name": "FN Královské Vinohrady"
+    },
+    {
+        "photo": "fn_ostrava.png",
+        "name": "Fakultní nemocnice Ostrava"
+    },
+    {
+        "photo": "pelhrimov.png",
+        "name": "Nemocnice Pelhřimov"
+    },
+    {
+        "photo": "pisek.png",
+        "name": "Nemocnice Písek"
+    },
+    {
+        "photo": "fn-plzen.png",
+        "name": "Fakultní nemocnine Plzeň"
+    },
+    {
+        "photo": "prachatice.png",
+        "name": "Nemocnice Prachatice"
+    },
+    {
+        "photo": "pribram.png",
+        "name": "Oblastní nemocnice Příbram"
+    },
+    {
+        "photo": "rakovnik.png",
+        "name": "Masarykova nemocnince Rakovník"
+    },
+    {
+        "photo": "slany.jpg",
+        "name": "Nemocnice Slaný"
+    },
+    {
+        "photo": "logo-nemocnice-sokolov.png",
+        "name": "Nemocnice Sokolov"
+    },
+    {
+        "photo": "susice.png",
+        "name": "Sušická nemocnice"
+    },
+    {
+        "photo": "logo_ftn.jpg ",
+        "name": "Fakultní Thomayerova nemocnice"
+    },
+    {
+        "photo": "tabor.jpg",
+        "name": "Nemocnice Tábor"
+    },
+    {
+        "photo": "trnava.png",
+        "name": "Fakultná nemocnica Trnava"
+    },
+    {
+        "photo": "trutnov.png",
+        "name": "Oblastní nemocnice Trutnov"
+    }
+]
