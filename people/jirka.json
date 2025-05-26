@@ -1,0 +1,12 @@
+{
+  "key": "jirka",
+  "name": "Mgr. Jiří Krejčí",
+  "nick": "Jirka",
+  "email": "jiri.krejci@mild.blue",
+  "title_cs": "Junior backend vývojář",
+  "title_en": "Junior backend developer",
+  "title_de": "Junior-Backend-Entwickler",
+  "short_desc_en": "Jirka graduated in Artificial Intelligence from the Faculty of Mathematics and Physics, Charles University. His interests include neural networks, optimization, and multi-agent systems. At Mild Blue, he works as a junior backend developer.",
+  "short_desc_de": "Jirka hat Artificial Intelligence an der CUNI MFF studiert. Während seines Studiums interessierte er sich für neuronale Netze, Optimierung und Multiagentensysteme. Bei Mild Blue arbeitet er als Junior-Backend-Entwickler",
+  "short_desc_cs": "Jirka vystudoval obor Umělá inteligence na MFF UK. Během studia se zajímal o neuronové sítě, optimalizaci, a multiagentní systémy. V Mild Blue se věnuje vývoji software na pozici junior backend developer."
+}
