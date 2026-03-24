@@ -19,7 +19,7 @@
   "desc_pieces_cs": [
     "Párová výměna ledvin je způsob, jak zvýšit počet možných transplantací ledvin a zvýšit tím délku a kvalitu života pacientů s chronickým onemocněním ledvin. V párové výměně dárce daruje ledvinu jinému příjemci a na oplátku získá kompatibilní ledvinu pro svého rodinného příslušníka nebo blízkého přítele.",
     "TX Matching je nástroj, který umožňuje párovou výměnu zorganizovat a najít v ní optimální kombinaci dárců a příjemců. Pro správu párové výměny nabízí pohodlnou kontrolu uživatelského přístupu, automatické vkládání anonymizovaných pacentských dat přes API rozhraní a možnost reportingu. Optimalizační algoritmus dokáže pracovat s celou řadou nastavitelných parametrů a díky tomu umožňuje maximální flexibilitu při hledání těch nejvhodnějších dárců.",
-    "Algoritmus TX Matchingu je postaven na open source kódu a celá platforma je volně dostupná. Aktuálně je program TX Matching aktivně využíván pražským IKEM na správu a optimalizaci mezinárodního programu párové výměny mezi Českou republikou, Izraelem a Rakouskem."
+    "Algoritmus TX Matchingu je postaven na open source kódu. Aktuálně je program TX Matching aktivně testován v pražským IKEMu."
   ],
   "desc_pieces_en": [
     "Kidney Paired Donation (KPD) is an exchange program that allows more kidney transplants from living donors to take place. This dramatically increases the quality of life for patients with chronic kidney disease. In a paired donation program, a donor will donate their kidney to another recipient in exchange for a compatible kidney for their family member or friend.",
