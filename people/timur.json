@@ -3,10 +3,10 @@
     "name": "Ing. Timur Abragimovich",
     "nick": "Timur",
     "email": "timur.abragimovich@mild.blue",
-    "title_cs": "Junior vývojář",
-    "title_en": "Junior developer",
-    "title_de": "Junior-Entwickler",
-    "short_desc_en": "Timur is a junior backend developer at the beginning of his career. He studies medical electronics and bioinformatics at the Faculty of Electrical Engineering of the Czech Technical University in Prague. During his studies, Timur acquired skills in neuroimaging, signal processing, circuit theory, physics, mathematics and programming. In Mild Blue he sees an opportunity to improve healthcare through IT.",
-    "short_desc_de": "Timur ist ein Junior-Entwickler, der am Anfang seiner Karriere steht. Er studiert Medizinische Elektronik und Bioinformatik an der Fakultät der Elektronische Ingenieurwesen and der Tschechische Technische Universität in Prag. Während seines Studiums hat Timur Kenntnisse in Neurologische Bildgebung, Signalverarbeitung, Schaltungstheorie, Physik, Mathematik und Programmierung erworben. In Mild Blue sieht er eine Chance, die Medizin durch IT zu verbessern.\n",
-    "short_desc_cs": "Timur je junior developer na začátku své kariéry. Studuje lékařskou elektroniku a bioinformatiku na FEL ČVUT a během svého studia získal dovednosti v neurozobrazování, zpracování signálu, teorii obvodů, fyzice, matematice a programování. V Mild Blue vidí možnost zlepšit zdravotnictví pomocí IT."
+    "title_cs": "Backend vývojář",
+    "title_en": "Backend developer",
+    "title_de": "Backend-Entwickler",
+    "short_desc_en": "Timur is a backend developer working at the intersection of software engineering and medicine. At Mild Blue he builds healthcare software, from organ-matching algorithms to laboratory quality-management systems. He holds a master's degree in Medical Electronics and Bioinformatics from the Faculty of Electrical Engineering, CTU in Prague, and did research on diffusion MRI of the brain in patients with pharmacoresistant epilepsy. At Mild Blue he gets to connect the world of software with the real needs of medicine.",
+    "short_desc_de": "Timur ist ein Backend-Entwickler an der Schnittstelle von Softwareentwicklung und Medizin. Bei Mild Blue entwickelt er Software für das Gesundheitswesen – von Algorithmen zur Organzuordnung bis hin zu Qualitätsmanagementsystemen für Labore. Er hat einen Masterabschluss in Medizinischer Elektronik und Bioinformatik an der Fakultät für Elektrotechnik der ČVUT in Prag und forschte im Bereich der Diffusions-MRT des Gehirns bei Patienten mit pharmakoresistenter Epilepsie. Bei Mild Blue kann er die Welt der Software mit den realen Bedürfnissen der Medizin verbinden.",
+    "short_desc_cs": "Timur je backendový vývojář pracující na pomezí softwarového inženýrství a medicíny. V Mild Blue vyvíjí software pro zdravotnictví – od algoritmů pro párování orgánů po systémy řízení kvality v laboratořích. Získal magisterský titul v oboru lékařská elektronika a bioinformatika na FEL ČVUT v Praze a věnoval se výzkumu difuzní MRI mozku u pacientů s farmakorezistentní epilepsií. V Mild Blue může propojit svět softwaru s reálnými potřebami medicíny."
 }
